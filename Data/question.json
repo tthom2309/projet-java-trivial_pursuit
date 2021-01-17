@@ -1,0 +1,6019 @@
+{
+	"listQuestion":[
+	{
+		"author":"Decroos",
+		"statement":"In what hemisphere is the tropic of Cancer located?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"The western hemisphere":false,
+			"The southern hemisphere":false,
+			"The eastern hemisphere":false,
+			"The northern hemisphere":true
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"Usually, when can you watch the Australian open",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"In January":true,
+			"In March":false,
+			"In December":false,
+			"In February":false
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"Where was Jesus born?",
+		"category":"HISTORY",
+		"choices":{
+			"In Samaria":false,
+			"In Nazareth":false,
+			"In Jerusalem":false,
+			"In Bethlehem":true
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"Who is the the father of the Communism?",
+		"category":"BUSINESS",
+		"choices":{
+			"Jesus":false,
+			"Marx":true,
+			"Keynes":false,
+			"Smith":false
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"How many planets are there in the Solar System?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"8":true,
+			"9":false,
+			"7":false,
+			"10":false
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"How many times did Eddy Mercks win \"Le Tour de France\"?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"7 times":false,
+			"4 times":false,
+			"5 times":true,
+			"6 times":false
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"What\u0027s the Earth\u0027s circumference?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"30 000 km":false,
+			"20 000 km":false,
+			"10 000 km":false,
+			"40 000 km":true
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"In which planet was Darth Vader born on?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Tatooine":true,
+			"The Earth":false,
+			"Dantooine":false,
+			"Coruscant":false
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"Who was the president of the USA during the Second World War?",
+		"category":"HISTORY",
+		"choices":{
+			"Thomas Wilson":false,
+			"Herbert Hoover":false,
+			"Franklin Roosevelt":true,
+			"John Kennedy":false
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"What\u0027s the income of a shareholder?",
+		"category":"BUSINESS",
+		"choices":{
+			"A private income":false,
+			"A salary":false,
+			"A stock dividend":true,
+			"A bond":false
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"What is the nearest star of the sun?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"Proxima Centauri":true,
+			"A private income":false,
+			"Vega":false,
+			"Sirius":false
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"Which football club won the most often the football cup og Belgium?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"Standard Liège":false,
+			"RSC Anderlecht":false,
+			"Club Brugge":true,
+			"KRC Genk":false
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"What is the capital city of Kenya",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Juba":false,
+			"Nairobi":true,
+			"Mogadishu":false,
+			"Dodoma":false
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"In which TV can you pull a black ball?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Money Drop":false,
+			"Motus":true,
+			"Who wants to be a millionnaire":false,
+			"The price is right":false
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"Who was the last king of France?",
+		"category":"HISTORY",
+		"choices":{
+			"Louis XVI":false,
+			"Louis Philippe I":true,
+			"Charles X":false,
+			"Napoleon I":false
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"What element insn\u0027t a primary need?",
+		"category":"BUSINESS",
+		"choices":{
+			"Drinking":false,
+			"Eating":false,
+			"Getting dressed":false,
+			"Playing with the Playstation":true
+			}
+		},
+	{
+		"author":"Decroos",
+		"statement":"What is the lowest possible temperature?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"-173,15°C":false,
+			"-273,15°C":true,
+			"-373,15°C":false,
+			"-473,15°C":false
+		}
+	},
+	{
+		"author":"Decroos",
+		"statement":"What is the nationality of Stanislas Wawrinka?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"Bulgarian":false,
+			"Russian":false,
+			"Belarussian":false,
+			"Swiss":true
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"What\u0027s the name of the river in london ?",
+		"category":"GEOGRAPHY","choices":{
+			"River plate":false,
+			"River Thames":true,
+			"River lake":false,
+			"River woods":false
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"What\u0027s the capital of Belarus ?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Kiev":false,
+			"Minsk":true,
+			"Moscow":false,
+			"Riga":false
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"How many states are there in usa ?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"50":true,
+			"51":false,
+			"52":false,
+			"54":false
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"Who is the main actor in the patriot ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Russel Crowe":false,
+			"Robert Redford":false,
+			"Edward Norton":false,
+			"Mel Gibson":true
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"Who is the main actor in fight club ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Russel Crowe":false,
+			"Brad Pitt":false,
+			"Tyler Durden":false,
+			"Edward Norton":true
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"Who is the author of harry potter story ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"J.K.Rowlings":true,
+			"Jack Sparrow":false,
+			"Hagrid":false,
+			"Peter Anderson":false
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"Who is the most successful sniper in history ?",
+		"category":"HISTORY",
+		"choices":{
+			"King Kong":false,
+			"Simo Häyhä":true,
+			"Vasily Zaytsev":false,
+			"Major Koenig":false
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"What the biggest tank battle in history ?",
+		"category":"HISTORY",
+		"choices":{
+			"Leningrad":false,
+			"Kiev":false,
+			"Stalingrad":false,
+			"Kursk":true
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"Who is the general in the afrika korps ? ",
+		"category":"HISTORY",
+		"choices":{
+			"Romel":true,
+			"Goeiring":false,
+			"Heydrich":false,
+			"Montgomery":false
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"Who is the ceo of microsoft ?  ",
+		"category":"BUSINESS",
+		"choices":{"
+			Satya Nadella":true,
+			"Bill gates":false,
+			"Steve Jobs":false,
+			"Steve Balmer":false
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"Which company made the witcher series ?  ",
+		"category":"BUSINESS",
+		"choices":{
+			"Activision":false,
+			"Telltale":false,
+			"CD Projekt":true,
+			"Blizzard":false
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"Which company made the iphone ?  ",
+		"category":"BUSINESS",
+		"choices":{
+			"Apple":true,
+			"Microsoft":false,
+			"Samsung":false,
+			"Nokia":false
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"What\u0027s the most powerful androgen ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"Testosterone":false,
+			"Dihydrotestosterone":true,
+			"Growth Hormone":false,
+			"Insulin":false
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"How many adult teeth should an adult have?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"34":false,
+			"30":false,
+			"28":false,
+			"32":true
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"What vitamin is called the sunshine vitamin ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"Vitamin A":false,
+			"Vitamin D":true,
+			"Vitamin E":false,
+			"Vitamin C":false
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"What town does the Cowboys play for ?",
+		"category":"SPORT_LEISURE","choices":{
+			"Los Angeles":false,
+			"Dallas":true,
+			"Miami":false,
+			"Boston":false
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"What country does Didier Drogba play for? ",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"Ivory Coast":true,
+			"Cameroun":false,
+			"France":false,
+			"Russia":false
+		}
+	},
+	{
+		"author":"Rochez Adrien",
+		"statement":"Which country won the last world cup ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"Brazil":false,
+			"Argentina":false,
+			"Belgium":false,
+			"Germany":true
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"What are the Dolomites located?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Italy":true,
+			"France":false,
+			"The USA":false,
+			"Spain":false
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"Who sang \u0027My Way\u0027 ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Franck Sinatra":true,
+			"Queen":false,
+			"Elvis Presley":false,
+			"Mickael Jackson":false
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"What was Adolf Hitler\u0027s religion ?",
+		"category":"HISTORY",
+		"choices":{
+			"Judaism":false,
+			"Catholicism":true,
+			"Atheism":false,
+			"Islam":false
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"Who is the CEO of Apple in 2015?",
+		"category":"BUSINESS",
+		"choices":{
+			"Ronald Wayne":false,
+			"Steeve Jobs":false,
+			"Steve Wozniak":false,
+			"Tom Cook":true
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"Who invented the electric light bulb ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"Thomas Edison":true,
+			"Auguste and Louis Lumière":false,
+			"Alexander Graham Bell":false,
+			"Albert Einstein":false
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"Wich is the most spoken language ?",
+		"category":"SPORT_LEISURE",
+		"choices":{	
+			"English":false,
+			"Chinese":true,
+			"French":false,
+			"Japanese":false
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"How many states are there in the USA ?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"55":false,
+			"45":false,
+			"50":true,
+			"49":false
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"What year did Elvis Presley die ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"1975":false,
+			"1972":false,
+			"1968":false,
+			"1977":true
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"In 2015, How Much Money Does Bill Gates Have ?",
+		"category":"BUSINESS",
+		"choices":{
+			"US$79 billion":true,
+			"US$89 billion":false,
+			"US$122 billion":false,
+			"US$103 billion":false
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"Which is the only mammal that can\u0027t jump?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"Walrus":false,
+			"Bear":false,
+			"Dog":false,
+			"Elephant":true
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"How many players are there in a volleyball team ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"4":false,
+			"5":false,
+			"6":true,
+			"7":false
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"Which country has the largest area ?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Brazil":true,
+			"Australia":false,
+			"India":false,
+			"Spain":false
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"In whitch city is Hollywood located ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"San Francisco":false,
+			"New York":false,
+			"Los Angeles":true,
+			"Miami":false
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"When did the first man go into space ?",
+		"category":"HISTORY",
+		"choices":{
+			"1965":false,
+			"1961":true,
+			"1971":false,
+			"1960":false
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"Who is the second founder of Microsoft with Bill Gates",
+		"category":"BUSINESS",
+		"choices":{
+			"Satya Nadella ":false,
+			"John W. Thompson":false,
+			"Steeve Jobs":false,
+			"Paul Alleen":true
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"What\u0027s the softest rock",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"diamond":false,
+			"Talc":true,
+			"Calcite":false,
+			"Brick":false
+		}
+	},
+	{
+		"author":"Verhelle",
+		"statement":"How long is a round in boxing ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"3 minutes":true,
+			"2 minutes 30s":false,
+			"2 minutes":false,
+			"4 minutes":false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "What place is Nancy is globally renowned for the gates created by Jean Lamour ?",
+		"category": "GEOGRAPHY",
+		"choices": {
+			"Place Stanislas": true,
+			"Place Lamour": false,
+			"Place Victor": false,
+			"Place d’Alliance": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "What are the first names of the two Lumière brothers ?",
+		"category": "ENTERTAINMENT",
+		"choices": {
+			"Charles and Louis": false,
+			"Louis and Auguste": true,
+			"Pierre and jean": false,
+			"Thomas and Adrien": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "What son of Daedalus met with a tragic fate ?",
+		"category": "HISTORY",
+		"choices": {
+			"Eumolpos": false,
+			"Erechtee": false,
+			"Hermes": false,
+			"Icare": true
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "How many European banks failed the stress tests published October 26, 2014 by the European Central Bank, knowing that 130 banks were reviewed ?",
+		"category": "BUSINESS",
+		"choices": {
+			"25": true,
+			"45": false,
+			"65": false,
+			"84": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "What craftsman makes the violins ?",
+		"category": "SCIENCE_NATURE",
+		"choices": {
+			"The rope": false,
+			"The violinist": false,
+			"The luthier": true,
+			"The clavichord": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "Which ordeal did the French Stephane Peterhansel win 6 times in January ?",
+		"category": "SPORT_LEISURE",
+		"choices": {
+			"The Dakar Rally (cars)": false,
+			"Paris-Moscow-Beijing": false,
+			"Morocco Rally": false,
+			"the Dakar Rally (motorcycles)": true
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "What river flows through the city of Antwerp?",
+		"category": "GEOGRAPHY",
+		"choices": {
+			"The river Seine": false,
+			"The Yser": false,
+			"The Scheldt River": true,
+			"The Meuse": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "Which actor published his memoirs in two volumes entitled the Ragman’s son and Climbing The Mountain: my search for meaning? ",
+		"category": "ENTERTAINMENT",
+		"choices": {
+			"Kirk Douglas": true,
+			"Jean Bode": false,
+			"Gace Brulé": false,
+			"Thibaut de Champagne": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "Which institution was created in 1945 with the San Francisco Charter?",
+		"category": "HISTORY",
+		"choices": {
+			"WWF": false,
+			"NATO": false,
+			"NU": true,
+			"ILO": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "Considering two complementary goods A and B. An increase in the price of good A will result in…",
+		"category": "BUSINESS",
+		"choices": {
+		"An increase in the price of good B": false,
+		"A decrease in the quantity demanded of good B": false,
+		"A decline in the demand for good B": true,
+		"An unchanged demand for good B, since both products are substitutes": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "How do you call the area between the high sea level and the low sea level?",
+		"category": "SCIENCE_NATURE",
+		"choices": {
+		"Tide": false,
+		"Low tide": false,
+		"Foreshore": true,
+		"High tide": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "What king of hunting is performed with dogs and horses?",
+		"category": "SPORT_LEISURE",
+		"choices": {
+		"The hunt": true,
+		"Deer-hunting": false,
+		"Trapping": false,
+		"Falconry": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "Which Japanese city appears in the dictionary between La Napoule and Narbonne?",
+		"category": "GEOGRAPHY",
+		"choices": {
+		"Nari": false,
+		"Nara": true,
+		"Naru": false,
+		"Nare": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "What is common to Celine Dion, Johnny Hallyday and the Asterix movie?",
+		"category": "ENTERTAINMENT",
+		"choices": {
+		"The music of Jean-Jacques Goldman": true,
+		"The music of Michèle Bernard": false,
+		"The music of Pascal Obispo": false,
+		"The music of Yves Duteil": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "How many times was François Mitterand a Minister  in France ?",
+		"category": "HISTORY",
+		"choices": {
+		"3 times": false,
+		"7 times": false,
+		"11 times": true,
+		"15 times": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "A fraction is a property",
+		"category": "BUSINESS",
+		"choices": {
+		"Demand decreases as income increases": true,
+		"Demand increases as income rises": false,
+		"Demand increases when the price of the good rises": false,
+		"Demand decreases when the price of the property decreases": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "In 1826, how long was the exposure time for the first photo of Niepce ?",
+		"category": "SCIENCE_NATURE",
+		"choices": {
+		"10 hours": false,
+		"14 hours": true,
+		"19 hours": false,
+		"20 hours": false
+		}
+	},
+	{
+		"author": "Donckers Leslie",
+		"statement": "How many times was Ayrton Senna the champion of the F1 World Drivers?",
+		"category": "SPORT_LEISURE",
+		"choices": {
+		"1 times": false,
+		"2 times": false,
+		"3 times": true,
+		"4 times": false
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "What is the capital of Peru ?",
+		"category": "GEOGRAPHY",
+		"choices": {
+			"Lima": true,
+			"Santiago": false,
+			"La Paz": false,
+			"Roma": false
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "In the book of J.K. Rowling what are the names of Harry Potter's two best friends ?",
+		"category": "ENTERTAINMENT",
+		"choices": {
+			"Hermione and Ron": true,
+			"Gerald and Sophie": false,
+			"Gilderoy and Rogue": false,
+			"Sam and Samus": false
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "What nickname was given to the French King Louis XIV ?",
+		"category": "HISTORY",
+		"choices": {
+		"The Moon King": false,
+		"The Sun King": true,
+		"The Star King": false,
+		"The Saturn King": false
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "In what location are the prices fixed by allowing the exchange of properties and standardized assets ?",
+		"category": "BUSINESS",
+		"choices": {
+			"The funds": false,
+			"The added values": false,
+			"The investment": false,
+			"The stock market": true
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "What is the chemical symbol of gold ?",
+		"category": "Science_Nature",
+		"choices": {
+			"UA": false,
+			"Gd": false,
+			"Ar": false,
+			"Au": true
+	}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "Which object is necessary to play ice hocket ?",
+		"category": "Sports_Leisure",
+		"choices": {
+			"A ball": false,
+			"A hook": false,
+			"A puck": true,
+			"A frisbee": false
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "Which river crosses Italy ?",
+		"category": "GEOGRAPHY",
+		"choices": {
+			"The Pô": true,
+			"The Seine": false,
+			"The Nile": false,
+			"The Amazon": false
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "Who made the series Les Gendarmes of which the main actor is Louis DeFunes ?",
+		"category": "Entertainment",
+		"choices": {
+			"Jean Girault": true,
+			"Luc Besson": false,
+			"Jean-Luc Godard": false,
+			"François Truffaut": false
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "Who was the first Belgian King ?",
+		"category": "History",
+		"choices": {
+			"Baudoin I": false,
+			"Albert I": false,
+			"Leopold I": true,
+			"Philippe I": false
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "What's the name given to a group or to moral or physical people who manage an institution, as an association, a company or a public establishment ?",
+		"category": "Business ",
+		"choices": {
+			"The board of directors": true,
+			"The union delegation": false,
+			"The corporation": false,
+			"The general management": false
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "Which animal carries its babies in a pocket situated on its stomach ?",
+		"category": "Science_ Nature",
+		"choices": {
+			"The bear": false,
+			"The tiger": false,
+			"The elephant": false,
+			"The kangaroo": true
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "In 2014, which country won the Football World Cup ?",
+		"category": "Sports_Leisure",
+		"choices": {
+			"Brazil": false,
+			"Argentina": false,
+			"Uruguay": false,
+			"Germany": true
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "On which continent is the Danube located ?",
+		"category": "Geography",
+		"choices": {
+			"Asia": false,
+			"Europe": true,
+			"America": false,
+			"Africa": false
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "Which actor played in the movie Titanic, The Wolf Of Wall Street and Shutter Island ?",
+		"category": "Entertainment",
+		"choices": {
+			"Leonardo Di Caprio": true,
+			"Brad Pitt": false,
+			"Tom Cruise": false,
+			"Johnny Depp": false
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "When was Napoleon I born ?",
+		"category": "HISTORY",
+		"choices": {
+			"1690": false,
+			"1769": true,
+			"1802": false,
+			"1850": false
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "Which term describes an income which pays the working strength ?",
+		"category": "BUSINESS",
+		"choices": {
+			"The price": false,
+			"The salary": true,
+			"The bonus": false,
+			"The premium": false
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "Who discovered the relativity ?",
+		"category": "SCIENCE_NATURE",
+		"choices": {
+			"Albert Einstein": true,
+			"Etienne Lenoir": false,
+			"Louis Pasteur": false,
+			"Marie Curie": false
+		}
+	},
+	{
+		"author": "La Marca Giuliana",
+		"statement": "What's the official distance of a marathon ?",
+		"category": "SPORT_LEISURE",
+		"choices": {
+			"36.870 kilometers": false,
+			"40.625 kilometers": false,
+			"42.195 kilometers": true,
+			"45.610 kilometers": false
+	}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "What is the capital of Egypt?",
+		"category": "GEOGRAPHY",
+		"choices": {
+		"Cairo": true,
+		"Alexandria": false,
+		"Aswan": false,
+		"Baghdad": false
+		}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "What movie did Tom Cruise become known with?",
+		"category": "ENTERTAINMENT",
+		"choices": {
+		"Top Gun": true,
+		"Mr and Mrs Smith": false,
+		"Terminator": false,
+		"The Avengers": false
+		}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "What year was Abraham Lincoln assassinated?",
+		"category": "HISTORY",
+		"choices": {
+		"1825": false,
+		"1845": false,
+		"1865": true,
+		"1885": false
+		}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "What is inflation?",
+		"category": "BUSINESS",
+		"choices": {
+		"GDP growth": false,
+		"Rising unemployment": false,
+		"Rising wages": false,
+		"Rising prices": true
+		}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "What is the second name of the space cloud?",
+		"category": "SCIENCE_NATURE",
+		"choices": {
+		"Nebula": true,
+		"Comet": false,
+		"Black hole": true,
+		"Asteroid": false
+		}
+	},	
+	{
+		"author": "Tilman Kevin",
+		"statement": "How many players are there on a football field in each team?",
+		"category": "SPORT_LEISURE",
+		"choices": {
+		"9": false,
+		"10": false,
+		"11": true,
+		"12": false
+		}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "What is the largest ocean in the world?",
+		"category": "GEOGRAPHY",
+		"choices": {
+		"The Atlantic Ocean": false,
+		"The Pacific Ocean": true,
+		"The Indian Ocean": false,
+		"The Artic Ocean": false
+		}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "Who is a Belgian comedian?",
+		"category": "ENTERTAINMENT",
+		"choices": {
+		"Kev Adams": false,
+		"Arthur": false,
+		"Vincent Counard": true,
+		"Ramzy": false
+		}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "What year was the Apollo 11 mission launched?",
+		"category": "HISTORY",
+		"choices": {
+		"1949": false,
+		"1959": false,
+		"1969": true,
+		"1979": false
+		}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "In which economic sector does a farmer works?",
+		"category": "BUSINESS",
+		"choices": {
+		"Primary": true,
+		"Secondary": false,
+		"Tertiary": false,
+		"Quaternary": false
+		}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "What stone can be found in a volcano?",
+		"category": "SCIENCE_NATURE",
+		"choices": {
+		"Schale": false,
+		"Amethyst": false,
+		"Emerald": false,
+		"Diamond": true
+		}
+	},	
+	{
+		"author": "Tilman Kevin",
+		"statement": "What sport was born in Asia?",
+		"category": "SPORT_LEISURE",
+		"choices": {
+		"Curling": false,
+		"Tennis": false,
+		"Basketball": false,
+		"Karate": true
+		}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "How high is Mount Everest in meters?",
+		"category": "GEOGRAPHY",
+		"choices": {
+		"6848": false,
+		"8848": true,
+		"10848": false,
+		"12848": false
+		}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "What do the parents of Hermione Granger do?",
+		"category": "ENTERTAINMENT",
+		"choices": {
+		"Dentists": true,
+		"Police officers": false,
+		"Doctors": false,
+		"Lawyers": false
+		}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "How did Louis XVI die?",
+		"category": "HISTORY",
+		"choices": {
+		"Murdered": false,
+		"Shot": false,
+		"Old age": false,
+		"Guillotined": true
+		}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "Which term expresses the possibility to know the characteristics of a product?",
+		"category": "BUSINESS",
+		"choices": {
+		"Atomicity": false,
+		"Transparency": true,
+		"Homogeneity": false,
+		"Free movement": false
+		}
+	},
+	{
+		"author": "Tilman Kevin",
+		"statement": "Which animal does not lay eggs?",
+		"category": "SCIENCE_NATURE",
+		"choices": {
+		"Snake": false,
+		"Platypus": false,
+		"Penguin": false,
+		"Hammerhead shark": true
+		}
+	},	
+	{
+		"author": "Tilman Kevin",
+		"statement": "What instrument is used to play baseball?",
+		"category": "SPORT_LEISURE",
+		"choices": {
+		"A racket": false,
+		"A bat": true,
+		"A stick": false,
+		"A spike": false
+		}
+	},
+	{
+		"author":"Mathieu",	
+		"statement":"What was the population of China in 2014 ?",
+		"category":"GEOGRAPHY",
+		"choices":{
+		"1,373,505,511":true,
+		"3,258,127,423":false,
+		"905,856,234":false,
+		"1,995,456,522":false
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"What is the name of the deceased singer of the famous band ACDC ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Freddy Mercury":false,
+			"Axl Rose":false,
+			"Kurt Cobain":false,
+			"Bon Scott":true
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"Who decoded the machine Enigma during the Second World War ?",
+		"category":"HISTORY",
+		"choices":{
+			"Frits Haber":false,
+			"Alan Turing":true,
+			"Albert Einstein":false,
+			"Marie Curie":false
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"Among the following, which one is not a factor of production ?",
+		"category":"BUSINESS",
+		"choices":{
+			"The earth":true,
+			"A bank loan":false,
+			"The capital":false,
+			"The work":false
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"What is the lifetime of the sun ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"100 billion years":false,
+			"It will never die":false,
+			"5 billion years":false,
+			"10 billion years":true
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"Which frequency is usually used for tuning a guitar ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"480 Hz":false,
+			"500 Hz":false,
+			"400 Hz":false,
+			"440 Hz":true
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"How many states make up the United States",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"46":false,
+			"48":false,
+			"50":true,
+			"62":false
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"Who is the original singer of the famous title \"Alleluia\" written in 1984 ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Michael Jackson":false,
+			"Leonard Cohen":true,
+			"Jeff Buckley":false,
+			"Bon Jovi":false
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"What is the year of the discovery of America by Christopher Colombus ?",
+		"category":"HISTORY",
+		"choices":{
+			"1689":false,
+			"1401":false,
+			"1492":true,
+			"1507":false
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"What is a primary need ?",
+		"category":"BUSINESS",
+		"choices":{
+			"A saving":false,
+			"An agricultural product":false,
+			"A feeling of privation necessary to survice":true,
+			"A service":false
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"What is special about the lobster ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{	
+			"Its tail grows again":false,
+			"It does not age":true,
+			"It is hermaphrodite":false,
+			"It has eight paws":false
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"In football, which country is the most succesful with five stars ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"Argentina":false,
+			"Brazil":true,
+			"Germany":false,
+			"Spain":false
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"Which is the longest French river ?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"The Loire":true,
+			"The Meuse":false,
+			"The Garonne":false,
+			"The Seine":false
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"In the TV series called Game of Thrones, what name did Arya Stark give her sword ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"Dawnbreaker":false,
+			"Needle":true,
+			"Longclaw":false,
+			"Dard":false
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"How long did the Hundred years War last ?",
+		"category":"HISTORY",
+		"choices":{
+			"100 years":false,
+			"116 years":true,
+			"108 years":false,
+			"99 years":false
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"What is the company which represents the biggest tire manufacturer in the world ?",
+		"category":"BUSINESS",
+		"choices":{
+			"LEGO":true,
+			"Pirelli":false,
+			"Bridgestone":false,
+			"Michelin":false
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"What animal was used by Schrodinger for illustrating his theory ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"A horse":false,
+			"A cat":true,
+			"A turtle":false,
+			"A dog":false
+		}
+	},
+	{
+		"author":"Mathieu",
+		"statement":"In what year did Justine Henin win a gold medal for the olympic games of Athens ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"1998":false,
+			"2006":false,
+			"2004":true,
+			"2001":false
+		}
+	},
+	{
+		"author":"David",
+		"statement":"What is the capital of Angola",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Beijing":false,
+			"Ouagadougou":false,
+			"Katmandu":false,
+			"Luanda":true
+		}
+	},
+	{
+		"author":"David",
+		"statement":"How many states make up the United States",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"13":false,
+			"49":false,
+			"50":true,
+			"51":false
+		}
+	},
+	{
+		"author":"David",
+		"statement":"Where do lemurs live",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"In Madagascar":true,
+			"In Asia":false,
+			"In Africa":false,
+			"In Java":false
+		}
+	},
+	{
+		"author":"David",
+		"statement":"What is the name of Phineas and Ferb\u0027s pet?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Kevin":false,
+			"Perry":true,
+			"Perrypf":false,
+			"Jean":false
+		}
+	},
+	{
+		"author":"David",
+		"statement":"What is Minnie\u0027s last name?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Marie":false,
+			"Disney":false,
+			"Mouse":true,
+			"Smith":false
+		}
+	},
+	{
+		"author":"David",
+		"statement":"What is the video game known as Lol?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Laughing out loud":false,
+			"Legend of Lyon":false,
+			"League of Legends":true,
+			"League of Ladies":false
+		}
+	},
+	{
+		"author":"David",
+		"statement":"Who was the first black president of the USA?",
+		"category":"HISTORY",
+		"choices":{
+			"Barack Obama":true,
+			"George W. Bush Jr.":false,
+			"Mitt Romney":false,
+			"J.F. Kenedy":false
+		}
+	},
+	{
+		"author":"David",
+		"statement":"What does \u0027SS\u0027 stand for?",
+		"category":"HISTORY",
+		"choices":{
+			"Staffelschutz":false,
+			"Schutzstaffel":true,
+			"Super Sayan":false,
+			"Super Snake":false
+		}
+	},
+	{
+		"author":"David\t",
+		"statement":"How long was the Hundred Years\u0027 War?",
+		"category":"HISTORY",
+		"choices":{
+			"100 years":false,
+			"116 years":true,
+			"200 years":false,
+			"101 years":false
+		}
+	},
+	{
+		"author":"David",
+		"statement":"Who was Appel\u0027s CEO until 2011",
+		"category":"BUSINESS",
+		"choices":{
+			"Steve Jobs":true,
+			"Tim Cook":false,
+			"Mark Zuckerberg":false,
+			"Bill Gates":false
+		}
+	},
+	{
+		"author":"David",
+		"statement":"Which company bought Nokia?",
+		"category":"BUSINESS",
+		"choices":{
+			"Appel":false,
+			"Sony":false,
+			"Microsoft":true,
+			"Samsung":false
+		}
+	},
+	{
+		"author":"David",
+		"statement":"Which company acquired the company that created the Oculus Rift in 2014",
+		"category":"BUSINESS",
+		"choices":{
+			"Google":false,
+			"Youtube":false,
+			"Twitter":false,
+			"Facebook":true
+		}
+	},
+	{
+		"author":"David",
+		"statement":"What is the symbol for mercure?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"Me":false,
+			"Mg":false,
+			"K":false,
+			"Hg":true
+		}
+	},
+	{
+		"author":"David",
+		"statement":"What noise does the fox make against intruders?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"Whine":false,
+			"Growl":false,
+			"Bark":true,
+			"Yelp":false
+		}
+	},
+	{
+		"author":"David",
+		"statement":"How many elements compose the Mendeleev periodic table of elements?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"100":false,
+			"125":false,
+			"118":true,
+			"120":false
+		}
+	},
+	{
+		"author":"David",
+		"statement":"How do we call sports-related video games?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"Online-Sport":false,
+			"E-gaming":false,
+			"E-Sport":true,
+			"It\u0027s not a sport":false
+		}
+	},
+	{
+		"author":"David",
+		"statement":"What is the name of the Belgian football team?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"Black panther":false,
+			"White Devils":false,
+			"The Belgian fries":false,
+			"Red Devils":true
+		}
+	},
+	{
+		"author":"David",
+		"statement":"What is the Japanes of a manga writer?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"A Mangaka":true,
+			"A Cartoonist":false,
+			"A Mangako":false,
+			"A writer":false
+		}
+	},
+	{
+		"author":"Maxime",
+		"statement":"In which country does the licence plate start with a D",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Denmark":false,
+			"United Kingdom":false,
+			"Germany":true,
+			"Dominician Republic":false
+		}
+	},
+	{
+		"author":"Maxime",
+		"statement":"What\u0027s the color of the skin of the characters in the Simpsons",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Red":false,
+			"Blue":false,
+			"Yellow":true,
+			"Green":false
+		}
+	},
+	{
+		"author":"Maxime",
+		"statement":"In Greek mythology, who was the first woman ?",
+		"category":"HISTORY",
+		"choices":{
+			"Pandora":true,
+			"Aphrodite":false,
+			"Arthemis":false,
+			"Neith":false
+		}
+	},
+	{
+		"author":"Maxime",
+		"statement":"Besides a fruit, what can a kiwi be",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"Bird":true,
+			"Cat":false,
+			"Fish":false,
+			"Dog":false
+		}
+	},
+	{
+		"author":"Maxime",
+		"statement":"What object indicates the hole on a golf green",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"A flag":true,
+			"A tower":false,
+			"A stone":false,
+			"Nothing":false
+		}
+	},
+	{
+		"author":"Maxime",
+		"statement":"With Belgium and Luxembourg, which country forms the Benelux ?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"The Netherlands":true,
+			"England":false,
+			"France":false,
+			"Spain":false
+		}
+	},
+	{
+		"author":"Maxime",
+		"statement":"In television series, which creatures are fighting against \"Buffy\" ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Skeletons":false,
+			"Zombies":false,
+			"Vampires":true,
+			"Ghouls":false
+		}
+	},
+	{
+		"author":"Maxime",
+		"statement":"By what name do we know Vladimir Ilyich Ulyanov better ?",
+		"category":"HISTORY",
+		"choices":{
+			"Staline":false,
+			"Lenine":true,
+			"Putin":false,
+			"Gorbatchev":false
+		}
+	},
+	{
+		"author":"Maxime",
+		"statement":"Which sport does a triathlon event starts with ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"Cycling":false,
+			"Running":false,
+			"Swimming":true,
+			"Jumping":false
+		}
+	},
+	{
+		"author":"Maxime",
+		"statement":"What is the largest island in the Mediterranean Sea",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Sicily":true,
+			"Corsica":false,
+			"Malta":false,
+			"Spain":false
+		}
+	},
+	{
+		"author":"Maxime",
+		"statement":"What is \"the ninth art\" ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Movie":false,
+			"Theater":false,
+			"Comics":true,
+			"Press":false
+		}
+	},
+	{
+		"author":"Maxime",
+		"statement":"Who said \" Alea Jacta Est \"",
+		"category":"HISTORY",
+		"choices":{
+			"Boadicee":false,
+			"Alexander the Great":false,
+			"Julius Caesar":true,
+			"Attila":false
+		}
+	},
+	{
+		"author":"Maxime",
+		"statement":"From which tropical plant can we make rhum ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"Mangoes":false,
+			"Ananas":false,
+			"Sugarcane":true,
+			"Banana":false
+		}
+	},
+	{
+	"author": "Delatte Mélanie",
+	"statement": "Which of these is the most populous countries:",
+	"category": "GEOGRAPHY",
+	"choices": {
+		"Senegal": false,
+		"Rwand": false,
+		"Ghana": false,
+		"Ugand": true
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "In which country is the Transvaal located?",
+	"category": "GEOGRAPHY",
+	"choices": {
+		"Romania": false,
+		"Hungary": false,
+		"Poland": false,
+		"South Africa": true
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "Which city was the homeland of Henry IV and the future Charles XIV of Sweden ?",
+	"category": "GEOGRAPHY",
+	"choices": {
+		"Pau": true,
+		"Nice": false,
+		"Lille": false,
+		"Paris": false
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "Which aviator does Jean-Jacques Annaud foreground in The Wings of Courage ?",
+	"category": "ENTERTAINMENT",
+	"choices": {
+		"Guillaume Gelée": false,
+		"Henri Brêgi": false,
+		"NiceHenri Farman": false,
+		"Henri Guillaumet": true
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "Who was the third member of the trio with Rachid Taha and Khaled for rai  concert at Bercy \"1, 2, 3, soleil\" ?",
+	"category": "ENTERTAINMENT",
+	"choices": {
+		"Faudel": true,
+		"Lamine": false,
+		"Cheb Kader": false,
+		"Houari Benchenet": false
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "Which song by Maxime Le Forestier begins with \"C\u0027est une maison bleue adossée à la colline...\" ?",
+	"category": "ENTERTAINMENT",
+	"choices": {
+		"Comme un arbre": false,
+		"San Fransisco": true,
+		"Mon frère": false,
+		"Attention au départ": false
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "Which murder that was committed in the early morning Raymond Queneau to say that \"it was well worth it to get up so early?",
+	"category": "HISTORY",
+	"choices": {
+		"Henry IV": false,
+		"Marat": false,
+		"Duke of Guise": true,
+		"Kennedy": false
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "Who was expelled from the Tiflis Spiritual Seminary at the age of 20 ?",
+	"category": "HISTORY",
+	"choices": {
+		"Joseph Stalin": true,
+		"Léon Trotsky": false,
+		"Vladimir llitch Lenin": false,
+		"Karl Marx": false
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "Which Roman god was the equivalent of the Greek Hermes ?",
+	"category": "HISTORY",
+	"choices": {
+		"Jupiter": false,
+		"Cerberus": false,
+		"Mercury": true,
+		"Cupid": false
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "Which French scientist who died in 1794 is one of the inventors of modern Chemistry ?",
+	"category": "SCIENCE_NATURE",
+	"choices": {
+		"Louis Pasteur": false,
+		"Lavoisier": true,
+		"Leo Baekeland": false,
+		"Samuel Morse": false
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "which scientist published the revolutionary De Revolutionibus Orbium Coelestium in 1543 ?",
+	"category": "SCIENCE_NATURE",
+	"choices": {
+		"Oronteus Finacus": false,
+		"Isaac Newton": false,
+		"Leonardo da Vinci": false,
+		"Nicolaus Copernicus": true
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "What is the atomic number of Sulfur ?",
+	"category": "SCIENCE_NATURE",
+	"choices": {
+		"4": false,
+		"16": true,
+		"64": false,
+		"32": false
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "How many holes does a golf course have?",
+	"category": "SPORT_LEISURE",
+	"choices": {
+		"8 or 16": false,
+		"9 or 18": true,
+		"9 or 16": false,
+		"6 or 12": false
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "In what year was the first edition of L\u0027Equipe published ?",
+	"category": "SPORT_LEISURE",
+	"choices": {
+		"1950": false,
+		"1946": true,
+		"1846": false,
+		"1944": false
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "What are the two major Milan Soccer Clubs?",
+	"category": "SPORT_LEISURE",
+	"choices": {
+		"AS Rome and AC Milan": false,
+		"Juventus Turin and As Rome": false,
+		"Inter Milan and AC Milan": true,
+		"Inter Milan and Juventus Turin": false
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "What is a Bond ?",
+	"category": "BUSINESS",
+	"choices": {
+		"A disposable income": false,
+		"A fraction of the capital of a company": false,
+		"A creance title": true,
+		"An acknowledgement of debt": false
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "The part of the cost independant of the quantity produced is:",
+	"category": "BUSINESS",
+	"choices": {
+		"The fixed cost": true,
+		"The average cost": false,
+		"The marginal cost": false,
+		"The total cost": false
+	}
+},
+{
+	"author": "Delatte Mélanie",
+	"statement": "What is the first company on the mobile Telephony market ?",
+	"category": "BUSINESS",
+	"choices": {
+		"Sony": false,
+		"Apple": false,
+		"Samsung": true,
+		"Nokia": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "Of which country does The cook Strait separate the two main islands ?",
+	"category": "GEOGRAPHY",
+	"choices": {
+		"New Zealand": true,
+		"Austria": false,
+		"Italy": false,
+		"France": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "What is the capital of Malta ?",
+	"category": "GEOGRAPHY",
+	"choices": {
+		"Madrid": false,
+		"Valletta": true,
+		"Brussels ": false,
+		"Washington": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "On which island can we visit Syracuse ?",
+	"category": "GEOGRAPHY",
+	"choices": {
+		"Sicily": true,
+		"Cornwall": false,
+		"Guanaja": false,
+		"Rodrigues": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "Who\u0027s the main actor in Saturda Night Fever and Pulp Fiction?",
+	"category": "ENTERTAINMENT",
+	"choices": {
+		"Brad Pitt": false,
+		"Patrick Dempsey": false,
+		"Tom Cruise": false,
+		"John Travolta": true
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "Who\u0027s the director of the film \"On connait la chanson\" ? ",
+	"category": "ENTERTAINMENT",
+	"choices": {
+		"Sam Raimi": false,
+		"Wes Anderson": false,
+		"Alain Resnais": true,
+		"Michael Mann": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "Which movie starred Miou-Miou, Patrick Dewaere and Gérard Depardieu?",
+	"category": "ENTERTAINMENT",
+	"choices": {
+		"Les valseuses": true,
+		"2e sous-sol": false,
+		"World of the Worlds": false,
+		"Enchanted": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "What was the nickname of François Duvalier in Haiti ?",
+	"category": "HISTORY",
+	"choices": {
+		"Papa François": false,
+		"Papa Duvalier": false,
+		"Papa Papy": false,
+		"Papa Doc": true
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "What architect of Hitler\u0027s conceived the delirious plans of Germania ?",
+	"category": "HISTORY",
+	"choices": {
+		"Bush-Brown": false,
+		"Albert Speer": true,
+		"Richard Wagner": false,
+		"Paul Troost": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "Of which nationalist organization dissolved in 1936 the Colonel de La Rocque was he the president ?",
+	"category": "HISTORY",
+	"choices": {
+		"Les Enfoirés": false,
+		"La Croix de Feu": true,
+		"La Lutte contre le Sida": false,
+		"La Croix Rouge": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "What was the name of Captain Cousteau\u0027s legendary boat?",
+	"category": "SCIENCE_NATURE",
+	"choices": {
+		"Calypso": true,
+		"The Black Pearl": false,
+		"Giorgio-Cini": false,
+		"Pen Duick": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "What broadcast do Fred and Jamy present on TV in the future scholar",
+	"category": "SCIENCE_NATURE",
+	"choices": {
+		"Les 12 coups de midi": false,
+		"On n\u0027est pas des pigeons": false,
+		"C\u0027est pas sorcier!": true,
+		"Clé sur porte": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "How long is the space shuttle Columbia ?",
+	"category": "SCIENCE_NATURE",
+	"choices": {
+		"17 meters": false,
+		"18 meters": true,
+		"19 meters": false,
+		"20 meters": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "In which sport did Catherine Lascoste make her hole at the end of the 60s ?",
+	"category": "SPORT_LEISURE",
+	"choices": {
+		"Tennis": false,
+		"Golf": true,
+		"Basketball": false,
+		"Footbal": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "What nickname was given to the American Basketball Team at the Barcelona Olympics in 1992 ?",
+	"category": "SPORT_LEISURE",
+	"choices": {
+		"Dream Team": true,
+		"Focus Team": false,
+		"Beautiful Team": false,
+		"Team": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "What can we succeed is bridge, rugby, or tennis with luck and talent ?",
+	"category": "SPORT_LEISURE",
+	"choices": {
+		"Grand Dream": false,
+		"Grand Star": false,
+		"Grand Beauty": false,
+		"Grand Slam": true
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "What is a share ?",
+	"category": "BUSINESS",
+	"choices": {
+		"Receivables": false,
+		"An income of transfer": false,
+		"A fraction of the company\u0027s capital": true,
+		"A debt": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "What measures the productivity?",
+	"category": "BUSINESS",
+	"choices": {
+		"The efficiency of the production factor": false,
+		"Profitability of the company": true,
+		"Total value added": false,
+		"The production level": false
+	}
+},
+{
+	"author": "Florquin Deborah",
+	"statement": "What are the activities that help satisfy the needs using goods?",
+	"category": "BUSINESS",
+	"choices": {
+		"The production and income": false,
+		"The availability and consumption": false,
+		"The production and consumption": true,
+		"The consumption and envy": false
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "Of the following, what is the least populated DOM (French Overseas Department) ?",
+	"category": "GEOGRAPHY",
+	"choices": {
+		"The Guadeloupe": false,
+		"The Martinique": false,
+		"The Guiana": true,
+		"Hawaii": false
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "In which city movie lovers will they intersect at La Croisette ?",
+	"category": "GEOGRAPHY",
+	"choices": {
+		"Strasbourg": false,
+		"Cannes": true,
+		"Monaco": false,
+		"Paris": false
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "In which country New Brunswick province is it ?",
+	"category": "GEOGRAPHY",
+	"choices": {
+		"Canada": true,
+		"Ireland": false,
+		"Groenland": false,
+		"Iceland": false
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "On what note tune the oboe instruments of the orchestra?",
+	"category": "ENTERTAINMENT",
+	"choices": {
+		"Re": false,
+		"La": true,
+		"Do": false,
+		"Mi": false
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "What is the title of the film by Claude Zidi inspired by the adventures of Asterix ?",
+	"category": "ENTERTAINMENT",
+	"choices": {
+		"Astérix and the seven brothers": false,
+		"Astérix and the nine individuals": false,
+		"Astérix and Obelix: Operation Caesar salad": false,
+		"Astérix and Obelix against Caesar": true
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "What novel was adapted into a film by Stanley Kubrick and Adrian Lyne ?",
+	"category": "ENTERTAINMENT",
+	"choices": {
+		"Miranda by Nobokov": false,
+		"Chickitta by Nabolov": false,
+		"Lolita by Nabokov": true,
+		"Quanchita by Nubalov": false
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "Which falls Howard Carter discovered in Egypt in November 1922 ?",
+	"category": "HISTORY",
+	"choices": {
+		"Tutankharton": false,
+		"Rå": false,
+		"Iznogoud": false,
+		"Tutankhamun": true
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "in what year Valery Gicard d\u0027Estaing was elected President of the Republic?",
+	"category": "HISTORY",
+	"choices": {
+		"1974": true,
+		"1970": false,
+		"1980": false,
+		"1966": false
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "What is the middle name of Jacques Chirac to civil status?",
+	"category": "HISTORY",
+	"choices": {
+		"Philippe": false,
+		"René": true,
+		"Martin": false,
+		"Jean": false
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "According to the legends of Alsace, what wader brings babies?",
+	"category": "SCIENCE_NATURE",
+	"choices": {
+		"The stork": true,
+		"The crow": false,
+		"The eagle": false,
+		"The dragon": false
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "What is coulemelle, also known Lepiote?",
+	"category": "SCIENCE_NATURE",
+	"choices": {
+		"A kind of frog": false,
+		"A Mushroom": true,
+		"An Animal": false,
+		"A Potato": false
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "What is the most revolutionary way of cooking the lobster?",
+	"category": "SCIENCE_NATURE",
+	"choices": {
+		"In thermidor": true,
+		"By eating him alive": false,
+		"With vapor stream": false,
+		"By fire induction": false
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "In which French city took place Winter Olympics in 1992 ?",
+	"category": "SPORT_LEISURE",
+	"choices": {
+		"Marseille": false,
+		"Caen": false,
+		"Versailles": false,
+		"Albertville": true
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "Which future president was champion of France of High-Jump ?",
+	"category": "SPORT_LEISURE",
+	"choices": {
+		"Abou Diouf (President of Senegal)": true,
+		"Joachim Gauck (Federal President of Germany)": false,
+		"Barack Obama (President of the U.S.A)": false,
+		"Michelle Bachelet (President of Chili)": false
+	}
+},
+{
+	"author": "Regibo Hugo",
+	"statement": "In which sport Williams don\u0027t need engineers to put their skirts?",
+	"category": "SPORT_LEISURE",
+	"choices": {
+		"Tennis": true,
+		"Golf": false,
+		"Badminton": false,
+		"Ping-Pong": false
+	}
+},
+    {
+      "author": "Delforge",
+      "statement": "Where are the Luxembourg Gardens ?",
+	  "category": "GEOGRAPHY",
+      "choices": {
+        "Lima": false,
+        "Bruxelles": false,
+        "Paris": true,
+        "Bogota": false
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "Who as the main actor in Jumanji ?",
+	  "category": "ENTERTAINMENT",
+      "choices": {
+        "Brad Pitt": false,
+        "Neil Patrick Harris": false,
+        "Sean Connery": false,
+        "Robin Williams": true
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "Where was Christopher Columbus born ?",
+	  "category": "HISTORY",
+      "choices": {
+        "Caracas": false,
+        "Lisboa": false,
+        "Lima": false,
+        "Genoa": true
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "What does IMF stand for ?",
+	  "category": "BUSINESS",
+      "choices": {
+        "International Mummy Find": false,
+        "International Monetary Fun": false,
+        "International Monetary Fund": true,
+        "International Mercury Fund": false
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "Which planet is nearest the sun ?",
+	  "category": "SCIENCE_NATURE",
+      "choices": {
+        "Earth": false,
+        "Venus": false,
+        "Mercury": true,
+        "Pluto": false
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "Who starts first in chess ?",
+	  "category": "SPORT_LEISURE",
+      "choices": {
+        "Red": false,
+        "White": true,
+        "Blue": false,
+        "Black": false
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "What\u0027s the capital of Scotland ?",
+	  "category": "GEOGRAPHY",
+      "choices": {
+        "Lima": false,
+        "Edinburgh": true,
+        "Glasgow": false,
+        "Dundee": false
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "Who sang Beat it ?",
+	  "category": "ENTERTAINMENT",
+      "choices": {
+        "David Bowie": false,
+        "Michael Jackson": true,
+        "Patrick Bruel": false,
+        "Garou": false
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "What year did Christopher Columbus go to America?",
+	  "category": "HISTORY",
+      "choices": {
+        "789": false,
+        "1492": true,
+        "1480": false,
+        "1490": false
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "Which person used the phrase invisible hand ?",
+	  "category": "BUSINESS",
+      "choices": {
+        "Obi-Wan Kenobi": false,
+        "Adam Smith": true,
+        "John Maynard Keynes": false,
+        "Ban Ki Moon": false
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "How many colours are there in a rainbow ?",
+	  "category": "SCIENCE_NATURE",
+      "choices": {
+        "4": false,
+        "6": false,
+        "7": true,
+        "8": false
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "What\u0027s the smallest country in the world ?",
+	  "category": "GEOGRAPHY",
+      "choices": {
+        "Gibraltar": false,
+        "Belgium": false,
+        "Andorra": false,
+        "Vatican City": true
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "What year did Elvis Presley die ?",
+	  "category": "ENTERTAINMENT",
+      "choices": {
+        "1968": false,
+        "1978": false,
+        "1967": false,
+        "1977": true
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "What is the currency of Europe ?",
+	  "category": "BUSINESS",
+      "choices": {
+        "Dollar US": false,
+        "Dinar": false,
+        "Euro": true,
+        "British pound": false
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "Who said E\u003dmc2 ?",
+	  "category": "SCIENCE_NATURE",
+      "choices": {
+        "Howard Wolowitz": false,
+        "Sheldon Cooper": false,
+        "Albert Einstein": true,
+        "Marie Curie": false
+      }
+    },
+    {
+      "author": "Delforge",
+      "statement": "What sport did Pelé play ?",
+	  "category": "SPORT_LEISURE",
+      "choices": {
+        "Tennis": false,
+        "Basket-ball": false,
+        "Ice Hockey": false,
+        "Football": true
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "What\u0027s the capital of Afghanistan ?",
+	  "category": "GEOGRAPHY",
+      "choices": {
+        "Baghdad": false,
+        "Beirut": false,
+        "Dhaka": false,
+        "Kabul": true
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "Who was the main actor in 300 ?",
+	  "category": "ENTERTAINMENT",
+      "choices": {
+        "Russel Crowe": false,
+        "Liam Neeson": false,
+        "Gerard Butler": true,
+        "Hugh Jackman": false
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "Which of these USA presidents was not assassinated ?",
+	  "category": "HISTORY",
+      "choices": {
+        "William McKinley": false,
+        "Theodore Roosevelt": true,
+        "Abraham Lincoln": false,
+        "John F. Kennedy": false
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "Which country doesn\u0027t use Euro as currency ?",
+	  "category": "BUSINESS",
+      "choices": {
+        "Sweden": true,
+        "Kosovo": false,
+        "Finland": false,
+        "Malta": false
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "On the periodic table of elements what does \u0027C\u0027 stand for ?",
+	  "category": "SCIENCE_NATURE",
+      "choices": {
+        "Calcium": false,
+        "Cesium": false,
+        "Copper": false,
+        "Carbon": true
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "Who hosted the first FIFA World Cup (1930) ?",
+	  "category": "SPORT_LEISURE",
+      "choices": {
+        "Uruguay": true,
+        "Brazil": false,
+        "Italy": false,
+        "France": false
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "What is the world\u0027s longest river ?",
+	  "category": "GEOGRAPHY",
+      "choices": {
+        "Yangtze": false,
+        "Nile": true,
+        "Niger": false,
+        "Amazon": false
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "Which race isn\u0027t part of J.R.R. Tolkien\u0027s fictional fantasy world of Middle-earth ?",
+	  "category": "ENTERTAINMENT",
+      "choices": {
+        "Elves": false,
+        "Dwarves": false,
+        "Orcs": false,
+        "Muggle": true
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "When was the Universal Declaration of Human Rights adopted ?",
+	  "category": "HISTORY",
+      "choices": {
+        "1928": false,
+        "1938": false,
+        "1948": true,
+        "1958": false
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "Who is the CEO of Google ?",
+	  "category": "BUSINESS",
+      "choices": {
+        "Larry Page": true,
+        "Tim Cook": false,
+        "Mark Zuckerberg": false,
+        "Dick Costolo": false
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "Which one of the following types of solar radiation does sunscreen protect the skin from?",
+	  "category": "SCIENCE_NATURE",
+      "choices": {
+        "Infrared": false,
+        "X-rays": false,
+        "Ultraviolet": true,
+        "Microwaves": false
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "Who won the Wimbledon Championships in 2014 ?",
+	  "category": "SPORT_LEISURE",
+      "choices": {
+        "G. Dimitrov": false,
+        "N. Djokovic": true,
+        "R. Nadal": false,
+        "R. Federer": false
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "Which country doesn\u0027t border Brazil ?",
+	  "category": "GEOGRAPHY",
+      "choices": {
+        "Ecuador": true,
+        "Argentina": false,
+        "Paraguay": false,
+        "Peru": false
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "Who is the drummer of the rock band Muse ?",
+	  "category": "ENTERTAINMENT",
+      "choices": {
+        "Alex Turner": false,
+        "Dominic Howard": true,
+        "Christopher Wolstenholme": false,
+        "Matthew Bellamy": false
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "Who was the first king of Belgium ?",
+	  "category": "HISTORY",
+      "choices": {
+        "Baudouin I": false,
+        "Albert I": false,
+        "Philippe I": false,
+        "Leopold I": true
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "Which country isn\u0027t a OPEC (Organization of the Petroleum Exporting Countries) member ?",
+	  "category": "BUSINESS",
+      "choices": {
+        "Venezuela": false,
+        "Qatar": false,
+        "Algeria": false,
+        "Russia": true
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "What is the study of beer and beer-making called ?",
+	  "category": "SCIENCE_NATURE",
+      "choices": {
+        "Acology": false,
+        "Zythology": true,
+        "Hyetology": false,
+        "Oenology": false
+      }
+    },
+    {
+      "author": "Johan Demaret Rivarola",
+      "statement": "Who won the Formula 1 world\u0027s driver championship in 2014 ?",
+	  "category": "SPORT_LEISURE",
+      "choices": {
+        "Nico Rosberg": false,
+        "Lewis Hamilton": true,
+        "Jenson Button": false,
+        "Daniel Ricciardo": false
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "What is the capital of Switzerland ?",
+	  "category": "GEOGRAPHY",
+      "choices": {
+        "Berne": true,
+        "Lausanne": false,
+        "Zurich": false,
+        "GenÃ¨ve": false
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "How Many Oscars did Leonardo Di Caprio win ?",
+	  "category": "ENTERTAINMENT",
+      "choices": {
+        "Five": false,
+        "One": false,
+        "Ten": false,
+        "None": true
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "Where was Marco Polo\u0027s home town ?",
+	  "category": "HISTORY",
+      "choices": {
+        "Sevilla": false,
+        "Roma": false,
+        "Paris": false,
+        "Venice": true
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "Who built the Theory of Human Motivation, a hierarchy of needs, represented as a pyramid with the more basic needs at the bottom ?",
+	  "category": "BUSINESS",
+      "choices": {
+        "Abraham Maslow": true,
+        "Juan Antonio PÃ©rez LÃ³pez": false,
+        "Jhon Curtis Gowan": false,
+        "Thomas d\u0027Aquin": false
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "Which planet is the farthest of the sun ?",
+	  "category": "SCIENCE_NATURE",
+      "choices": {
+        "Earth": false,
+        "Neptune": false,
+        "Uranus": false,
+        "Pluto": true
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "What money do they use in Japan ?",
+	  "category": "BUSINESS",
+      "choices": {
+        "Dollars": false,
+        "Yen": true,
+        "Euro": false,
+        "Yuni": false
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "How many colours stand on the flag of Ghana ?",
+	  "category": "GEOGRAPHY",
+      "choices": {
+        "1": false,
+        "2": false,
+        "4": true,
+        "6": false
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "When was Michael Jackson dead ?",
+	  "category": "ENTERTAINMENT",
+      "choices": {
+        "2009": true,
+        "1985": false,
+        "1990": false,
+        "2010": false
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "When did the Second World War start ?",
+	   "category": "HISTORY",
+      "choices": {
+        "1940": true,
+        "1918": false,
+        "1914": false,
+        "1945": false
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "A system of economics based on the private ownership of capital and production inputs, and on the production of goods and services for profit.",
+      "category": "BUSINESS",
+	  "choices": {
+        "Socialist system": false,
+        "Mixed system (capitalist and socialist": false,
+        "Communist system": false,
+        "Capitalist system": true
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "How many hump(s) has a dromedary camel ?",
+	  "category": "SCIENCE_NATURE",
+      "choices": {
+        "0": false,
+        "1": true,
+        "2": false,
+        "3": false
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "How many players constitute a football team ?",
+	  "category": "SPORT_LEISURE",
+      "choices": {
+        "11": true,
+        "12": false,
+        "8": false,
+        "10": false
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "How many leveles people can visit at the Eiffel Tower ?",
+	  "category": "GEOGRAPHY",
+      "choices": {
+        "2": false,
+        "3": true,
+        "4": false,
+        "5": false
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "How much five-pointed stars comprises the famous Hollywood Walk of Fame ?",
+	  "category": "ENTERTAINMENT",
+      "choices": {
+        "1500": false,
+        "More than 2,500": true,
+        "500": false,
+        "250": false
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "Where did the first atomic bomb explode for the first time in Japan ?",
+	  "category": "HISTORY",
+      "choices": {
+        "China Town": false,
+        "Tokyo": false,
+        "Toyota": false,
+        "Hiroshima": true
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "What does GDP mean in international economic ?",
+	  "category": "BUSINESS",
+      "choices": {
+        "Gateway Discovery Protocol": false,
+        "Group Design Process": false,
+        "Gross Domestic Product": true,
+        "Gas Detection Panel": false
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "Which colour doesn\u0027t constitute a rainbow ?",
+	  "category": "SCIENCE_NATURE",
+      "choices": {
+        "Red": false,
+        "Brown": true,
+        "Blue": false,
+        "Yellow": false
+      }
+    },
+    {
+      "author": "Sofiane Hassaini",
+      "statement": "How long is a round in boxing ?",
+	  "category": "SPORT_LEISURE",
+      "choices": {
+        "7\u0027": false,
+        "5\u0027": false,
+        "3\u0027": true,
+        "9\u0027": false
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "What\u0027s the highest mountain ?",
+	  "category": "GEOGRAPHY",
+      "choices": {
+        "Everest": true,
+        "K2": false,
+        "Kangchenjunga": false,
+        "Lhotse": false
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "Who did Cersei Lannister marry?",
+	  "category": "ENTERTAINMENT",
+      "choices": {
+        "Robert Baratheon": true,
+        "Theon Greyjoy": false,
+        "Eddard Stark": false,
+        "John Snow": false
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "Who is the president of Italy?",
+	  "category": "GEOGRAPHY",
+      "choices": {
+        "Giorgio Napolitano": false,
+        "Sergio Mattarella": true,
+        "Carlo Azeglio Ciampi": false,
+        "Oscar Luigi Scalfaro": false
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "Who is the CEO of Apple ?",
+	  "category": "BUSINESS",
+      "choices": {
+        "Tim Cook": true,
+        "Steve Jobs": false,
+        "Steve Ballmer": false,
+        "Jeff Bezos": false
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "Which color isn\u0027t a primary color ?",
+	  "category": "SCIENCE_NATURE",
+      "choices": {
+        "Red": false,
+        "Yellow": false,
+        "Blue": false,
+        "Green": true
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "Who win the world cup of football in 1994 ?",
+	  "category": "SPORT_LEISURE",
+      "choices": {
+        "Italie": false,
+        "Argentina": false,
+        "Brazil": false,
+        "Germany": true
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "Which country has the largest area ?",
+	  "category": "GEOGRAPHY",
+      "choices": {
+        "Canada": false,
+        "USA": false,
+        "China": false,
+        "Russia": true
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "How many oscars did Alfred Hitchcock win?",
+	  "category": "ENTERTAINMENT",
+      "choices": {
+        "11": true,
+        "6": false,
+        "8": false,
+        "9": false
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "How many children has Philippe (king of Belgium) got?",
+	  "category": "HISTORY",
+      "choices": {
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": true
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "When the Great Depression started ?",
+	  "category": "BUSINESS",
+      "choices": {
+        "1932": false,
+        "1929": true,
+        "1927": false,
+        "1948": false
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "What colour is a panda?",
+	  "category": "SCIENCE_NATURE",
+      "choices": {
+        "White": false,
+        "Black and white": true,
+        "Black": false,
+        "Grey": false
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "Who was the MVP in the last super bowl ?",
+	  "category": "SPORT_LEISURE",
+      "choices": {
+        "Joe Flacco": false,
+        "Tom Brady": true,
+        "Eli Manning": false,
+        "MalcolmSmith": false
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "Where are the rainforests ?",
+	  "category": "GEOGRAPHY",
+      "choices": {
+        "Asia": false,
+        "Europe": false,
+        "America": true,
+        "Africa": false
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "Who said «Yes we can» ?",
+	  "category": "HISTORY",
+      "choices": {
+        "Barack Obama": true,
+        "John Fitzgerald Kennedy": false,
+        "George Walker Bush": false,
+        "Franklin roosevelt": false
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "What did Thomas Edison invent?",
+	  "category": "HISTORY",
+      "choices": {
+        "car": false,
+        "printer": false,
+        "electric light bulb": true,
+        "Bicycle": false
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "How many country are there in Euroland ?",
+	  "category": "BUSINESS",
+      "choices": {
+        "16": false,
+        "17": false,
+        "18": false,
+        "19": true
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "Which is a medical drug ?",
+	  "category": "SCIENCE_NATURE",
+      "choices": {
+        "GHB": false,
+        "Cannabis": true,
+        "Methampetamine": false,
+        "LSD": false
+      }
+    },
+    {
+      "author": "Jordan Druart",
+      "statement": "Which is an American football player",
+	  "category": "SPORT_LEISURE",
+      "choices": {
+        "Michael Schumacher": false,
+        "Cristiano Ronaldo": false,
+        "Ray Lewis": true,
+        "Michael Jordan": false
+      }
+    },
+	    {
+      "author": "Michael",
+      "statement": "What is the capital of Brazil?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "Brasilia": true,
+        "Recife": false,
+        "Sao Paolo": false,
+        "Rio": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "What is special in a croupier's clothing?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "Striped": false,
+        "Just black": false,
+        "Single-use": false,
+        "No pocket": true
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "In what year was the capture of Constantinople?",
+      "category": "HISTORY",
+      "choices": {
+        "1453": true,
+        "1460": false,
+        "1492": false,
+        "1429": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "What is the name of the real place where sellers and buyers meet?",
+      "category": "BUSINESS",
+      "choices": {
+        "School": false,
+        "Bank": false,
+        "Market": true,
+        "Place": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "What is the chemical symbol for arsenic?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "Ar": false,
+        "As": true,
+        "Au": false,
+        "Ag": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "What was the original name of Pac-man?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "Ghost eater": false,
+        "Puck-man": true,
+        "Ghost silence": false,
+        "Gloubi": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "Which is the most salted sea?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "The Red sea ": false,
+        "The Black sea": false,
+        "The Dead sea": true,
+        "The Green sea": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "What nationality is Shakira?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "Chiliean": false,
+        "Argentinian": false,
+        "Colombian": true,
+        "Brazilian": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "What edict, signed in 1598, granted religious freedom to Protestants?",
+      "category": "HISTORY",
+      "choices": {
+        "Rethondes": false,
+        "Strasbourg": false,
+        "Nantes": true,
+        "Versailles": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "What is the name that describes a finished product?",
+      "category": "BUSINESS",
+      "choices": {
+        "Input": false,
+        "LIFO": false,
+        "Output": true,
+        "FIFO": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "What is the temperature of boiling water?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "100": true,
+        "105": false,
+        "95": false,
+        "98": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "Which jump is not in the program of decathlon?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "Triple jump": true,
+        "High jump": false,
+        "Long jump": false,
+        "Pole vault": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "Which is the highest mountain in Europe?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "The Matterhorn": false,
+        "The Grand Combine": false,
+        "Mont blanc": true,
+        "Pointe Dufour": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "Which actor and comedian created the Resto du Coeur, a few months before his death in 1986?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "Yves Montand": false,
+        "Thierry Le Luron": false,
+        "Daniel Balavoine": false,
+        "Coluche": true
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "Who was Nostradamus?",
+      "category": "HISTORY",
+      "choices": {
+        "A pope": false,
+        "An astrologer": true,
+        "An explorer": false,
+        "A Roman emperor": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "Which direction runs an enterprise?",
+      "category": "BUSINESS",
+      "choices": {
+        "General Direction": true,
+        "Commercial Direction": false,
+        "Personal Direction": false,
+        "Financial Direction": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "How many primary colors are there?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "2": false,
+        "3": true,
+        "4": false,
+        "7": false
+      }
+    },
+    {
+      "author": "Michael",
+      "statement": "In Japan, how is the art of paper folding called?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "Origami": true,
+        "Sashimi": false,
+        "Kabuki": false,
+        "Ikebana": false
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "Of which country is Ljubljana the capital?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "Romania": false,
+        "Slovenia": true,
+        "Bulgaria": false,
+        "Croatia": false
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "How many oscars did Alfred Hitchcock win?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "0": true,
+        "1": false,
+        "2": false,
+        "4": false
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "In what year was Louis XVI executed ?",
+      "category": "HISTORY",
+      "choices": {
+        "1789": false,
+        "1794": false,
+        "1793": true,
+        "1792": false
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "According to Maslow, which is the first level of need?",
+      "category": "BUSINESS",
+      "choices": {
+        "Esteem": false,
+        "Belonging": false,
+        "Safety": false,
+        "Physiological": true
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "What did Joseph Priesley discover in 1774?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "Silver": false,
+        "Oxygen": true,
+        "Calcium": false,
+        "Tin": false
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "What sport does Roger Federer play?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "Tennis": true,
+        "Swimming": false,
+        "Basketball": false,
+        "Football": false
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "How many states are there in the United States of America?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "49": false,
+        "50": true,
+        "51": false,
+        "52": false
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "Who is the main actor in Cocktail?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "Pierce Brosnan": false,
+        "Chuck Norris": false,
+        "Tom Cruise": true,
+        "Sean Connery": false
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "In what year did Titanic sink?",
+      "category": "HISTORY",
+      "choices": {
+        "1915": false,
+        "1914": false,
+        "1912": true,
+        "1911": false
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "Who was the economist that inspirate the communist system ?",
+      "category": "BUSINESS",
+      "choices": {
+        "Brown": false,
+        "Smith": false,
+        "Marx": true,
+        "Keynes": false
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "Which planet is the closest to the sun?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "Earth": false,
+        "Mars": false,
+        "Saturn": false,
+        "Mercury": true
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "How many players are there in a football team on the field?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "11": true,
+        "12": false,
+        "9": false,
+        "10": false
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "Which is the smallest ocean?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "The Artic ocean": true,
+        "The Pacific ocean": false,
+        "The Indian ocean": false,
+        "The Atlantic ocean": false
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "In what year was Trivial Pursuit created?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "1985": false,
+        "1995": false,
+        "1959": false,
+        "1979": true
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "How many children does Queen Elizabeth II have got?",
+      "category": "HISTORY",
+      "choices": {
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": true
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "What kind of money are bank note ?",
+      "category": "BUSINESS",
+      "choices": {
+        "Bank money": false,
+        "Fiduciary currency": true,
+        "Commodities": false,
+        "Fractional currency": false
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "What does the Roman numeral C represent?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "100": true,
+        "200": false,
+        "500": false,
+        "50": false
+      }
+    },
+    {
+      "author": "Alan",
+      "statement": "What's the fastest passenger plane in the world?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "Airbus A380": false,
+        "Boeing 747": false,
+        "Boeing 737": false,
+        "Concorde": true
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "Which is the largest ocean?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "The Artic ocean": false,
+        "The Pacific ocean": true,
+        "The Indian ocean": false,
+        "The Atlantic ocean": false
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "Who did John Lennon marry in 1969?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "Cynthia Powell": false,
+        "Yoko Ono": true,
+        "Mimi Smith": false,
+        "May Pang": false
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "How many wives did Henry VIII have?",
+      "category": "HISTORY",
+      "choices": {
+        "1": false,
+        "6": true,
+        "8": false,
+        "10": false
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "What does CEO stand for?",
+      "category": "BUSINESS",
+      "choices": {
+        "Chief Executive Offender": false,
+        "Company Executive Officer": false,
+        "Chief Executive Officer": true,
+        "Chief Enterprise Officer": false
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "What does the female praying mantis do after coupling?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "Gives birth to a child": false,
+        "Stays with the male for the rest of its life": false,
+        "Goes away": false,
+        "Eats the male": true
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "Which language has the most words?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "English": true,
+        "French": false,
+        "Spanish": false,
+        "Dutch": false
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "Which European country's flag is the flag of Monaco with the colors reversed?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "Austria": false,
+        "Singapore": false,
+        "Poland": true,
+        "Bahrain": false
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "What is Justin Bieber's first song?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "Boyfriend": false,
+        "Amazing": false,
+        "Baby": false,
+        "One time": true
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "When did someone go into space for the first time?",
+      "category": "HISTORY",
+      "choices": {
+        "1961": true,
+        "1950": false,
+        "1970": false,
+        "1979": false
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "What does the tertiary sector provide?",
+      "category": "BUSINESS",
+      "choices": {
+        "Commercial Services": true,
+        "Manufacturing and assembly process": false,
+        "Extractive production": false,
+        "Food": false
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "What does AIDS stand for?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "Acquired Immune Deficiency Syndrome": true,
+        "Army Inventory of Data Systems": false,
+        "All In Dead Silence": false,
+        "Almost Ideal Demand System": false
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "Who named a perfume for her fashion shows on the 5th day of the month?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "Jeanne Lanvin": false,
+        "Nina Ricci": false,
+        "Coco Chanel": true,
+        "Hanae Mori": false
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "What\u0027s the capital of Denmark?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "Copenhagen": true,
+        "Bern": false,
+        "Oslo": false,
+        "Helsinki": false
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "When was Marilyn Monroe born?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "1920": false,
+        "1930": false,
+        "1962": false,
+        "1926": true
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "Which leader was terribly afraid of the evil eye?",
+      "category": "HISTORY",
+      "choices": {
+        "Stalin": false,
+        "Lenin": false,
+        "Mussolini": true,
+        "Hitler": false
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "Which is the tendency of the Belgian economic system?",
+      "category": "BUSINESS",
+      "choices": {
+        "Communism": false,
+        "Mixed": false,
+        "Capitalism": true,
+        "Socialism": false
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "How many liters of blood does an average human have?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "4": false,
+        "5": true,
+        "6": false,
+        "7": false
+      }
+    },
+    {
+      "author": "Sesil",
+      "statement": "How many coloured balls are there in billiards?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "15": true,
+        "9": false,
+        "20": false,
+        "10": false
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "What territory, between the Mediterranean and the Atlantic, did the Spanish and the British fight ever?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "The Strait of Gibraltar": true,
+        "The Suez Canal": false,
+        "The Red Sea": false,
+        "The Nile": false
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "Which film didn't star Denzel Washington?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "Training Day": false,
+        "The Book of Eli": false,
+        "Lincoln": true,
+        "John Wick": false
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "What military corps, created in 1831, hosts the army volunteers of all countries?",
+      "category": "HISTORY",
+      "choices": {
+        "The Foreign Legion": true,
+        "The Roman legion": false,
+        "The Legion of Honor": false,
+        "The tricolor Legion": false
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "How many employees are there in SMEs ?",
+      "category": "BUSINESS",
+      "choices": {
+        "Between 50 and 250": false,
+        "Between1 and 10": false,
+        "more than 250": false,
+        "Between 10 and 250": true
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "In what year did Neil Armstrong go to the moon?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "1972": false,
+        "1969": true,
+        "1968": false,
+        "1966": false
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "In which team does Lionel Messi play for?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "Juventus": false,
+        "Anderlecht": false,
+        "FC Barcelona": true,
+        "Real Madrid CF": false
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "Of which nation is the the cross of St. Patrick emblem?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "Ireland": true,
+        "England": false,
+        "Scotland": false,
+        "Iceland": false
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "Who is the author of Harry Potter?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "JK Horsetrucks": false,
+        "JK Rowling": true,
+        "JK Angling": false,
+        "JK Simmons": false
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "In what year did the Night of the Long Knives take place?",
+      "category": "HISTORY",
+      "choices": {
+        "1932": false,
+        "1931": false,
+        "1934": true,
+        "1933": false
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "What is the function of the state ?",
+      "category": "BUSINESS",
+      "choices": {
+        "Raw material produce": false,
+        "Produce free public services": true,
+        "Issue shares on the stock market": false,
+        "Generate profit": false
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "What nationality is François Englert, the 2013 Nobel Prize laureate in Physics?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "French": false,
+        "Russian": false,
+        "American": false,
+        "Belgian": true
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "How many kilometers do the marathon runners have to cover?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "41.125km": false,
+        "40.000km": false,
+        "42.259km": false,
+        "42.195km": true
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "How many provinces are there in Austria?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "11": false,
+        "19": false,
+        "9": true,
+        "10": false
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "In what year was released the 3rd part of The Hobbit?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "2015": false,
+        "2014": true,
+        "2013": false,
+        "2012": false
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "In which European city was the first underground opened in the nineteenth century?",
+      "category": "HISTORY",
+      "choices": {
+        "Brussels": false,
+        "Madrid": false,
+        "London": true,
+        "Paris": false
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "In what year did the euro become the official EU currency?",
+      "category": "BUSINESS",
+      "choices": {
+        "2004": false,
+        "2002": false,
+        "2000": false,
+        "1999": true
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "What were the first living beings that the Montgolfier brothers sent up in the air?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "A dog, a cat and a hamster": false,
+        "No animals but a human": false,
+        "A chicken, a swan and a goat": false,
+        "A rooster, a duck and a sheep": true
+      }
+    },
+    {
+      "author": "Nathan",
+      "statement": "In what year Cyril Hanouna goes on stage?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "2006": false,
+        "2004": true,
+        "2001": false,
+        "2000": false
+      }
+    },
+	  {
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "What is the capital city of India?",
+	  "category":"GEOGRAPHY",
+	  "choices": {
+	    "Delhi": false,
+		"Kolkata":false,
+		"Mumbai": true,
+		"Chennai": false
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "Donald Duck’s nephews are called “Riri”,”Fifi” and…",
+	  "category":"ENTERTAINMENT",
+	  "choices": {
+	    "Kiki": false,
+		"Mimi": false,
+		"Loulou": true,
+		"Kikou": false
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "Against which countries did Napoleon lose the Battle of Waterloo?",
+	  "category":"HISTORY",
+	  "choices": {
+	    "Germany and England": true,
+		"Germany and Spain": false,
+		"England and Spain": false,
+		"Venice and Spain": false
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "Which economist is the father of Communism?",
+	  "category":"BUSINESS",
+	  "choices": {
+	    "Keynes": false,
+		"Marx": true,
+        "Smith": false,
+        "Brown": false
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "Which feline is the only one to live in a group?",
+	  "category":"SCIENCE_NATURE",
+	  "choices": {
+	    "Tiger": false,
+		"Panther": false,
+		"Lion": true,
+		"Lynx": false
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "Which country won then football world cup in 1998?",
+	  "category":"SPORT_LEISURE",
+	  "choices": {
+	    "Brazil": false,
+		"Italy": false,
+		"Germany": false,
+		"France": true
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "Which lake in Africa is situated in four different countries?",
+	  "category":"GEOGRAPHY",
+	  "choices": {
+	    "Lake Victoria": true,
+		"Lake Tanganyika": false,
+		"Lake Malawi": false,
+		"Lake Bangweulu": false
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "When was  the company « THX » founded?",
+	  "category":"ENTERTAINMENT",
+	  "choices": {
+	    "1986": false,
+		"1978": false,
+		"1980": false,
+		"1983": true
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "What is the ending date of World War I?",
+	  "category":"HISTORY",
+	  "choices": {
+	    "11 November 1918": true,
+		"6 June 1918": false,
+		"8 May 1918": false,
+		"4 March 1918": false
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "In Belgium, an economic company in which people invest their money and that manage their funds is called...",
+	  "category":"BUSINESS",
+	  "choices": {
+	    "SICAV": true,
+		"SPRL": false,
+		"SCA": false,
+		"SCN": false
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "Which of these animals is not an insect?",
+	  "category":"SCIENCE_NATURE",
+	  "choices": {
+	    "Ant": false,
+		"Ladybug": false,
+		"Spider": true,
+		"Mosquito": false 
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "Which of these solutions is not a judo hold?",
+	  "category":"SPORT_LEISURE",
+	  "choices": {
+	    "Te-waza": false,
+		"Sutemi-waza": false,
+		"Fushi-waza": true,
+		"Ashi-Waza": false 
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "Which country is not part of the European union? ",
+	  "category":"GEOGRAPHY",
+	  "choices": {
+	    "Norway": true,
+		"Poland": false,
+		"Bulgaria": false,
+		"Slovakia": false 
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "Who is the director of the « Titanic » film?",
+	  "category":"ENTERTAINMENT",
+	  "choices": {
+	    "James Cameron": true,
+		"Steven Spielberg": false,
+		"Ridley Scott": false,
+		"Martin Scorsese": false 
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "What is the name of Caesar’s famous son and his murderer?",
+	  "category":"HISTORY",
+	  "choices": {
+	    "Brutus": true,
+		"Caïus": false,
+		"Romulus": false,
+		"Augustus": false 
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "The purchase of a provider to control the Market chain is called... ",
+	  "category":"BUSINESS",
+	  "choices": {
+	    "Horizontal concentration": false,
+		"Vertical concentration": true,
+		"Oblique concentration": false,
+		"A conglomerate": false
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "What is the fusion temperature of tin?",
+	  "category":"SCIENCE_NATURE",
+	  "choices": {
+	    "456 °C": false,
+		"1230 °C": false,
+		"232 °C": true,
+		"101 °C": false
+		}
+	},
+	{
+	  "author":"Mauroit Jean-Baptiste",
+	  "statement": "Who won four Golden ball awards?",
+	  "category":"SPORTS_LEISURE",
+	  "choices": {
+	    "Cristiano Ronaldo": false,
+		"Pelé": false,
+		"Lionel Messi": true,
+		"Diego Maradona": false
+		}
+	},
+    {
+      "author": "Richard Christopher",
+	  "statement": "What diameter does the largest flower in the world reach, growing in Sumatra?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "30cm": false,
+        "1m": true,
+        "1m30": false,
+        "2m50": false
+      }
+    },
+    {
+      "author": "Richard Christopher",
+	  "statement": "Which strong wind often blows on the south coast of France?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "The Zephyr": false,
+        "The Mistral": true,
+        "The Bora": false,
+        "The Sirocco": false
+      }
+    },
+    {
+      "author": "Richard Christopher",
+	  "statement": "Which of these countries borders the Mediterranean Sea?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "Ireland": false,
+        "Slovakia": false,
+        "Portugal": false,
+        "Albania": true
+      }
+    },
+    {
+      "author": "Richard Christopher",
+	  "statement": "Walt Disney World opened in...",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "1971": true,
+        "1969": false,
+        "1979": false,
+        "1967": false
+      }
+    },
+    {
+     "author": "Richard Christopher",
+	 "statement": "Which character from \"Lilo and Stitch\" is convinced that the mosquitoes are an endangered on Earth?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "Lilo Pelekai": false,
+        "David Kawena": false,
+        "Pleakley": true,
+        "Jumba Jookiba": false
+      }
+    },
+	{
+      "author": "Richard Christopher",
+	  "statement": "What's the first planet the characters of the film Interstellar visit?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "Miller": true,
+        "Mann": false,
+        "Edmunds": false,
+        "Cooper": false
+      }
+    },
+	{
+      "author": "Richard Christopher",
+	  "statement": "The ancient Aztec people lived in the current...",
+      "category": "HISTORY",
+      "choices": {
+        "Peru": false,
+        "Brazil": false,
+        "Mexico": true,
+        "Nicaragua": false
+      }
+    },
+	{
+      "author": "Richard Christopher",
+	  "statement": "Who created the civil code?",
+      "category": "HISTORY",
+      "choices": {
+        "Leon Gambetta": false,
+        "Napoleon Bonaparte": true,
+        "Robespierre": false,
+        "Charles de Gaulle": false
+      }
+    },
+	{
+      "author": "Richard Christopher",
+	  "statement": "Who was the first Roman emperor?",
+      "category": "HISTORY",
+      "choices": {
+        "Julius Cesar": false,
+        "Nero": false,
+        "Mark Antony": false,
+        "Augustus": true
+      }
+    }, 
+	{
+      "author": "Richard Christopher",
+	  "statement": "How long does it take for the sun rays to reach the Earth?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "8 Hours": false,
+        "8 Minutes": true,
+        "8 Seconds": false,
+        "8 Milliseconds": false
+      }
+    },
+	{
+      "author": "Richard Christopher",
+	  "statement": "How many cervical vertebrae does a human have?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "6": false,
+        "8": false,
+        "7": true,
+        "9": false
+      }
+    }, 
+	{
+      "author": "Richard Christopher",
+	  "statement": "What phenomenon precedes the formation of a black hole?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "The death of a planet": false,
+        "The collapse of a star": true,
+        "The collision of two galaxies": false,
+        "A solar flare": false
+      }
+    },
+	{
+      "author": "Richard Christopher",
+	  "statement": "How many coloured balls are there in billiard?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "15": true,
+        "13": false,
+        "17": false,
+        "18": false
+      }
+    },
+	{
+      "author": "Richard Christopher",
+	  "statement": "Which country won the football world cup in 1938?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "Italy": true,
+        "Belgium": false,
+        "Switzerland": false,
+        "Poland": false
+      }
+    },
+	{
+      "author": "Richard Christopher",
+	  "statement": "In what year was basketball invented?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "1910": false,
+        "1891": true,
+        "1886": false,
+        "1905": false
+      }
+    },
+	{
+      "author": "Richard Christopher",
+	  "statement": "In what year did the great depression occur?",
+      "category": "BUSINESS",
+      "choices": {
+        "1929": true,
+        "1914": false,
+        "1933": false,
+        "1941": false
+      }
+    },
+	{
+      "author": "Richard Christopher",
+	  "statement": "What's the currency of Vietnam?",
+      "category": "BUSINESS",
+      "choices": {
+        "The Dong": true,
+        "The Yuan": false,
+        "The Som": false,
+        "The Tenge": false
+      }
+    },
+	{
+      "author": "Richard Christopher",
+	  "statement": "In what year did Google go to the market?",
+      "category": "BUSINESS",
+      "choices": {
+        "2000": true,
+        "2002": false,
+        "2004": false,
+        "2006": false
+      }
+    },
+	{
+      "author": "Waillez Jefferson",
+	  "statement": "What is the land of the Rising Sun?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "Australia": false,
+        "China": false,
+        "Japan": true,
+        "Vietnam": false
+      }
+    },
+    {
+      "author": "Waillez Jefferson",
+	  "statement": "In which ocean does the Amazon River empty?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "The Indian Ocean": false,
+        "The Pacific Ocean": false,
+        "The Antarctica Ocean": false,
+        "The Atlantic Ocean": true
+      }
+    },
+    {
+      "author": "Waillez Jefferson",
+	  "statement": "What is the capital of Poland?",
+      "category": "GEOGRAPHY",
+      "choices": {
+        "Warsaw": true,
+        "Wellington": false,
+        "Winnipeg": false,
+        "Winchester": false
+      }
+    },
+    {
+      "author": "Waillez Jefferson",
+	  "statement": "Which TV series presents the surgeons Dylan Walsh and Julian McMahon?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "Nip/tuck": true,
+        "Emergency": false,
+        "Mac Giver": false,
+        "The Young and the Restless": false
+      }
+    },
+    {
+      "author": "Waillez Jefferson",
+	  "statement": "What's the name of the 'Sleeping Beauty' by Disney?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "Jeannine": false,
+        "Lucienne": false,
+        "Aurore": true,
+        "Paulette": false
+      }
+    },
+	{
+      "author": "Waillez Jefferson",
+	  "statement": "What is, among others, the profession of Mary Poppins friend, Bert?",
+      "category": "ENTERTAINMENT",
+      "choices": {
+        "Chimney sweep": true,
+        "Reporter": false,
+        "Writer": false,
+        "Paperboy": false
+      }
+    },
+	{
+      "author": "Waillez Jefferson",
+ 	  "statement": "Who became the Queen of the Netherlands in 1980?",
+      "category": "HISTORY",
+      "choices": {
+        "Anastasia": false,
+        "Christina": false,
+        "Beatrix": true,
+        "Diana": false
+      }
+    },
+	{
+      "author": "Waillez Jefferson",
+	  "statement": "What was the name of former Chilean leader General Pinochet?",
+      "category": "HISTORY",
+      "choices": {
+        "Mario": false,
+        "Augusto": true,
+        "Gustavo": false,
+        "Hernan": false
+      }
+    },
+	{
+      "author": "Waillez Jefferson",
+ 	  "statement": "Which country was called Persia internationally until 1935?",
+      "category": "HISTORY",
+      "choices": {
+        "Iraq": false,
+        "Egypt": false,
+        "Libya": false,
+        "Iran": true
+      }
+    }, 
+	{
+      "author": "Waillez Jefferson",
+	  "statement": "What animal is also called harbor seal?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "Auk": false,
+        "Carp": false,
+        "Seal": true,
+        "Seagull": false
+      }
+    },
+	{
+      "author": "Waillez Jefferson",
+	  "statement": "What land animal has the longest tail?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "Kangaroo": false,
+        "Lemur": false,
+        "Giraffe": true,
+        "Elephant": false
+      }
+    }, 
+	{
+      "author": "Waillez Jefferson",
+	  "statement": "How is  the key layout of a French computer keyboard called?",
+      "category": "SCIENCE_NATURE",
+      "choices": {
+        "MMORPG": false,
+        "AZERTY": true,
+        "UNESCO": false,
+        "BFMTV": false
+      }
+    },
+	{
+      "author": "Waillez Jefferson",
+	  "statement": "Which baseball team is RED in Boston and WHITE in Chicago",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "Packers": false,
+        "Sox": true,
+        "Dogs": false,
+        "Bears": false
+      }
+    },
+	{
+      "author": "Waillez Jefferson",
+	  "statement": "In which of these sports is a paddle used?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "Long jump": false,
+        "Gymnastics": false,
+        "Ski": false,
+        "Kayak": true
+      }
+    },
+	{
+      "author": "Waillez Jefferson",
+	  "statement": "Among these countries, which is not present in the board game 'Risk'?",
+      "category": "SPORT_LEISURE",
+      "choices": {
+        "Ukraine": false,
+        "Russia": true,
+        "Brazil": false,
+        "China": false
+      }
+    },
+	{
+      "author": "Waillez Jefferson",
+	  "statement": "What is the origin of the Samsung , the world leader in high-tech industry?",
+      "category": "BUSINESS",
+      "choices": {
+        "South Korean": true,
+        "Japanese": false,
+        "North Korea": false,
+        "Chinese": false
+      }
+    },
+	{
+      "author": "Waillez Jefferson",
+	  "statement": "What is the currency in Australia ?",
+      "category": "BUSINESS",
+      "choices": {
+        "The pound sterling": false,
+        "The Dollar": true,
+        "The schilling": false,
+        "The yen": false
+      }
+    },
+	{
+      "author": "Waillez Jefferson",
+	  "statement": "What is the first automaker in the world?",
+      "category": "BUSINESS",
+      "choices": {
+        "Volkswagen": true,
+        "Toyota": false,
+        "General Motors": false,
+        "SEAT": false
+      }
+    },
+	        {
+            "author": "Alexis",
+            "statement": "Where is the Taj Mahal located ?",
+			"category": "GEOGRAPHY",
+            "choices": {
+                "China": false,
+                "India": true,
+                "Japan": false,
+                "Mongolia": false
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "What's the name of the composer who died from gangrene after having struck his foot with a long conducting staff ?",
+			"category": "ENTERTAINMENT",
+            "choices": {
+                "Beethoven": false,
+                "Berlioz": false,
+                "Chopin": false,
+                "Lully": true
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "What was the name of the first Roman emperor ?",
+			"category": "HISTORY",
+            "choices": {
+                "Augustus": true,
+                "Julius Cesar": false,
+                "Marcus Aurelius": false,
+                "Nero": false
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "What's the currency of Egypt ?",
+			"category": "BUSINESS",
+            "choices": {
+                "The Egyptian dinar": false,
+                "The Egyptian franc": false,
+                "The Egyptian pound": true,
+                "The dollar": false
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "What's the biggest mammal on Earth ?",
+			"category": "SCIENCE_NATURE",
+            "choices": {
+                "The Humpback whale": false,
+                "The blue whale": true,
+                "The grey whale": false,
+                "The white whale": false
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "How many Wolrd cup appearances does the Belgium National Soccer Team have ?",
+			"category": "SPORT_LEISURE",
+            "choices": {
+                "9": false,
+                "12": true,
+                "14": false,
+                "15": false
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "Where does the Danube river start ?",
+			"category": "GEOGRAPHY",
+            "choices": {
+                "In Autria": false,
+                "In Czech Republic": false,
+                "In Germany": true,
+                "In Switzerland": false
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "What was the first Disney animated movie ?",
+			"category": "ENTERTAINMENT",
+            "choices": {
+                "Cindrella": false,
+                "Fantasia": false,
+                "Pinocchio": false,
+                "Snow white and the seven dwarfs": true
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "When did Waterloo battle occur ?",
+			"category": "HISTORY",
+            "choices": {
+                "In 1812": false,
+                "In 1815": true,
+                "In 1821": false,
+                "In 1830": false
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "What industry created the assembly-line work ?",
+			"category": "BUSINESS",
+            "choices": {
+                "Coca Cola": false,
+                "Ford": true,
+                "Kärcher": false,
+                "Levis": false
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "What are the reproductive organs of a flower ?",
+			"category": "SCIENCE_NATURE",
+            "choices": {
+                "The nectarsecreting gland": false,
+                "The pistil": false,
+                "The receptacle": false,
+                "The stamen": true
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "What's the distance of a marathon ?",
+			"category": "SPORT_LEISURE",
+            "choices": {
+                "42.005 Km": false,
+                "42.195 Km": true,
+                "42.245 Km": false,
+                "42.375 Km": false
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "What's the capital of Mongolia ?",
+			"category": "GEOGRAPHY",
+            "choices": {
+                "Damacus": false,
+                "Darkhan": false,
+                "Mongolia": false,
+                "UlaanBaatar": true
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "What's the title of the first adventures of Tintin ?",
+			"category": "ENTERTAINMENT",
+            "choices": {
+                "Cigars of the pharaoh": false,
+                "Tintin in Armerica": false,
+                "Tintin in the Congo": false,
+                "Tintin in the Land of the Soviets": true
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "When was the Berlin wall built ?",
+			"category": "HISTORY",
+            "choices": {
+                "In 1946": false,
+                "In 1952": false,
+                "In 1961": true,
+                "In 1973": false
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "What need is not a secondary one ?",
+			"category": "BUSINESS",
+            "choices": {
+                "Need to play": false,
+                "Need to popularity": false,
+                "Need to see people": false,
+                "Need to sleep": true
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "What's the diet of a woodlark during its reproduction period ?",
+			"category": "SCIENCE_NATURE",
+            "choices": {
+                "Fish-eating": false,
+                "Frugivorous": false,
+                "Granivorous": false,
+                "Insectivorous": true
+            }
+        },
+        {
+            "author": "Alexis",
+            "statement": "How many pieces does a complete chess game have ?",
+			"category": "SPORT_LEISURE",
+            "choices": {
+                "24": false,
+                "28": false,
+                "32": true,
+                "36": false
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "What is the capital of the United States?",
+			"category": "GEOGRAPHY",
+            "choices": {
+                "Los Angeles": false,
+                "New York": false,
+                "Philadelphia": false,
+                "Washington": true
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "In what country can we see the Machu Picchu?",
+			"category": "GEOGRAPHY",
+            "choices": {
+                "Brazil": false,
+                "Chili": false,
+                "India": false,
+                "Peru": true
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "Where is the Black Forest located?",
+			"category": "GEOGRAPHY",
+            "choices": {
+                "Belgium": false,
+                "England": false,
+                "Germany": true,
+                "Italy": false
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "Which manga was written by Masashi Kishimoto",
+			"category": "ENTERTAINMENT",
+            "choices": {
+                "Bleach": false,
+                "Death Note": false,
+                "Dragon Ball": false,
+                "Naruto": true
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "Who is the writer of the book \"Eragon\"",
+			"category": "ENTERTAINMENT",
+            "choices": {
+                "Christopher Paolini": true,
+                "Georges Lucas": false,
+                "J.R.R.Tolkien": false,
+                "Stephenie Meyer": false
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "What is the name of Moe in the Simpsons",
+			"category": "ENTERTAINMENT",
+            "choices": {
+                "Burns": false,
+                "Gumble": false,
+                "Simpsons": false,
+                "Szyslak": true
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "In what year was Belgium created?",
+			"category": "HISTORY",
+            "choices": {
+                "1730": false,
+                "1800": false,
+                "1830": true,
+                "1900": false
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "What is the name of the highest tower of a fort ?",
+			"category": "HISTORY",
+            "choices": {
+                "The donjon": true,
+                "The flanking tower": false,
+                "The fortress": false,
+                "The watches": false
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "Which big city was destroyed in 1666 by a fire that lasted 4 days",
+			"category": "HISTORY",
+            "choices": {
+                "Brussels": false,
+                "Lisbon": false,
+                "London": true,
+                "Moscow": false
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "Which of these countries was not present at the signature of the ECSC Treaty ?",
+			"category": "BUSINESS",
+            "choices": {
+                "Belgium": false,
+                "France": false,
+                "Germany": false,
+                "Poland": true
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "What country is the yen the currency ?",
+			"category": "BUSINESS",
+            "choices": {
+                "China": false,
+                "Japan": true,
+                "Mongolia": false,
+                "North Korea": false
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "Which continent did the economic crisis of 2008-2009 come from ?",
+			"category": "BUSINESS",
+            "choices": {
+                "Asia": false,
+                "Europe": false,
+                "North America": true,
+                "South America": false
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "How many planets are there in our solar system ?",
+			"category": "SCIENCE_NATURE",
+            "choices": {
+                "6": false,
+                "7": false,
+                "8": true,
+                "9": false
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "What is a Komodo Dragon ?",
+			"category": "SCIENCE_NATURE",
+            "choices": {
+                "A bird": false,
+                "A fish": false,
+                "A mammal": false,
+                "A reptile": true
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "What name is given to the explosion of a star",
+			"category": "SCIENCE_NATURE",
+            "choices": {
+                "black hole": false,
+                "galaxy": false,
+                "nebula": false,
+                "supernova": true
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "How many times has Anderlecht won the football championship of Belgium ?",
+			"category": "SPORT_LEISURE",
+            "choices": {
+                "30": false,
+                "31": false,
+                "32": false,
+                "33": true
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "Which sport is played in Harry Potter ?",
+			"category": "SPORT_LEISURE",
+            "choices": {
+                "Basketball": false,
+                "Football": false,
+                "Quidditch": true,
+                "Tennis": false
+            }
+        },
+        {
+            "author": "Nicolas",
+            "statement": "Where does the judo come from ?",
+			"category": "SPORT_LEISURE",
+            "choices": {
+                "China": false,
+                "France": false,
+                "Japan": true,
+                "Thailand": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "What's the second most populated country in the world (the first being China) ?",
+			"category": "GEOGRAPHY",
+            "choices": {
+                "Russia": false,
+                "Japan": false,
+                "India": true,
+                "The U.S.A.": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "Who won the 2015 Academy Award for Best Picture ?",
+			"category": "ENTERTAINMENT",
+            "choices": {
+                "American Sniper": false,
+                "Fury": false,
+                "Birdman": true,
+                "Fifty Shades of Grey": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "Who was the first Pope ?",
+			"category": "HISTORY",
+            "choices": {
+                "John": false,
+                "Luke": false,
+                "Peter": true,
+                "Mark": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "Who is the Belgian Minister of Economy ?",
+			"category": "BUSINESS",
+            "choices": {
+                "Alexander De Croo": false,
+                "Jan Jambon": false,
+                "Kris Peeters": true,
+                "Herve Jamar": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "What the chemical symbol for Arsenic ?",
+			"category": "SCIENCE_NATURE",
+            "choices": {
+                "Ar": false,
+                "An": false,
+                "As": true,
+                "Ac": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "How many times has Lionel Messi won the Golden Ball ?",
+			"category": "SPORT_LEISURE",
+            "choices": {
+                "2": false,
+                "3": false,
+                "4": true,
+                "5": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "What's the largest island in the Mediterranean Sea ?",
+			"category": "GEOGRAPHY",
+            "choices": {
+                "Corsica": false,
+                "Malta": false,
+                "Sicily": true,
+                "Sardinia": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "What was the real name of Herge (the creator of Tintin) ?",
+			"category": "ENTERTAINMENT",
+            "choices": {
+                "Marc Richard": false,
+                "Philippe Chappuis": false,
+                "Georges Remi": true,
+                "Richard Marc": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "What was the name of the plane that dropped the first atomic bomb ?",
+			"category": "HISTORY",
+            "choices": {
+                "Bockstar": false,
+                "Little Boy": false,
+                "Enola Gay": true,
+                "Tango Charly": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "Who is the second author of \"theCommunistManifesto\" (with Karl Marx) ?",
+			"category": "BUSINESS",
+            "choices": {
+                "Philips": false,
+                "Cohen": false,
+                "Engels": true,
+                "Mankiw": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "Which temperature has the same value in both centigrade and Fahrenheit? ",
+			"category": "SCIENCE_NATURE",
+            "choices": {
+                "-36": false,
+                "-13": false,
+                "-40": true,
+                "-22": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "What is the world record time in the 100-meter race (by Usain Bolt) ?",
+			"category": "SPORT_LEISURE",
+            "choices": {
+                "9sec33": false,
+                "10sec21": false,
+                "9sec58": true,
+                "9sec22": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "How many countries are there in South America ?",
+			"category": "GEOGRAPHY",
+            "choices": {
+                "11": false,
+                "12": true,
+                "14": false,
+                "16": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "Who said \"Inthefuture, everyonewillbefamousfor15minutes.\" ?",
+			"category": "ENTERTAINMENT",
+            "choices": {
+                "Quentin Tarantino": false,
+                "Woody Allen": false,
+                "Andy Warhol": true,
+                "Pablo Picasso": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "What is the real name of Stalin ?",
+			"category": "HISTORY",
+            "choices": {
+                "Dimitar Faizulin": false,
+                "Vladimir Lodigyn": false,
+                "Iosif Vissarionovich Dzhugashvili": true,
+                "Igor Merabachvilih": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "What is the currency in Algeria?",
+			"category": "BUSINESS",
+            "choices": {
+                "The Yen": false,
+                "The Algerian Dirham": false,
+                "The Algerian dinar": true,
+                "The Algerian Dollar": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "What name was given to the 3.2 million year old Australopithecus Afarensis bones found in Ethiopia in 1974? ",
+			"category": "SCIENCE_NATURE",
+            "choices": {
+                "Ludo": false,
+                "Lufy": false,
+                "Lucy": true,
+                "Luce": false
+            }
+        },
+        {
+            "author": "Luca",
+            "statement": "Where will the 2016 Olympic Games be held ?",
+			"category": "SPORT_LEISURE",
+            "choices": {
+                "Montevideo": false,
+                "Madrid": false,
+                "Rio": true,
+                "Paris": false
+            }
+        },
+	{
+	"author":"Olivier SECRET",
+	"statement":"Which pole is a continent ?",
+	"category":"GEOGRAPHY",
+	"choices":{
+		"Both":false,
+		"The North Pole":false,
+		"The South Pole":true,
+		"None":false
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"Which country has the biggest surface ?",
+	"category":"GEOGRAPHY",
+	"choices":{
+		"Egypt":false,
+		"Greenland":false,
+		"Mexico":false,
+		"Indian":true
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"Where are the Maldives located ?",
+	"category":"GEOGRAPHY",
+	"choices":{
+		"In the Indian Ocean":true,
+		"In the Mediterranean Sea":false,
+		"In the Atlantic Ocean":false,
+		"In the pacific Ocean":false
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"Who was Vercingetorix ?",
+	"category":"HISTORY",
+	"choices":{
+		"French king":false,
+		"Gallic Chief":true,
+		"Famous north warrior":false,
+		"Caesar\u0027s commander":false
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"Who was Belgium\u0027s first king ?",
+	"category":"HISTORY",
+	"choices":{
+		"Albert I":false,
+		"Léopold I":true,
+		"Philippe I":false,
+		"Baudouin I":false
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"3. Who was the second King who abdicate in Belgium ?",
+	"category":"HISTORY",
+	"choices":{
+		"Léopold III":false,
+		"Albert II":true,
+		"Léopold II":false,
+		"Baudouin I":false
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"In what year, the distributors of Trivial Pursuit was be sentenced to pay a penalty ?",
+	"category":"ENTERTAINMENT",
+	"choices":{
+		"1982":false,
+		"1987":false,
+		"1984":true,
+		"1999":false
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"Which was the first FPS video game ?",
+	"category":"ENTERTAINMENT",
+	"choices":{
+		"Half-Life":false,
+		"Doom":false,
+		"Wolfenstein":false,
+		"Wolfenstein 3D":true
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"In what year did Mario appear in a video game ?",
+	"category":"ENTERTAINMENT",
+	"choices":{
+		"1982":false,
+		"1983":true,
+		"1980":false,
+		"1984":false
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"What does the acronym CSR stand for in economics vocabulary ?",
+	"category":"BUSINESS",
+	"choices":{
+		"Class Size Reduction":false,
+		"Corporate social responsibility":true,
+		"Common Structural Rules":false,
+		"Comprehensive School Reform":false
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"What does Economics consist in ?",
+	"category":"BUSINESS",
+	"choices":{
+		"Global statistic of money traffic":false,
+		"Science to studying the market":false,
+		"The method to share the limited resource to people":true,
+		"Save money to prevent accident":false
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"What this acronym IMF signify in economics vocabulary ?",
+	"category":"BUSINESS",
+	"choices":{
+		"Intelligent Message Filter":false,
+		"In my face":false,
+		"International Metalworkers\u0027 Federation":false,
+		"International Monetary Fund":true
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"Which blood group is the universal blood donor giver ?",
+	"category":"SCIENCE_NATURE",
+	"choices":{
+		"ab-":false,
+		"o-":true,
+		"ab+":false,
+		"o+":false
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"What is the distance between the moon and the earth ?",
+	"category":"SCIENCE_NATURE",
+	"choices":{
+		"400,844 km":false,
+		"384,400 km":true,
+		"348,800 km":false,
+		"384,800 km":false
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"What is the biggest forest ?",
+	"category":"SCIENCE_NATURE",
+	"choices":{
+		"Taiga":false,
+		"The Amazon Rainforests":true,
+		"Congo Rainforest":false,
+		"Sinharaja Forest":false
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"Which sport is not a team sport ?",
+	"category":"SPORT_LEISURE",
+	"choices":{
+		"Football":false,
+		"Basketball":false,
+		"Triathlon":true,
+		"Rugby":false
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"In what year was the first Star Wars movie released ?",
+	"category":"SPORT_LEISURE",
+	"choices":{
+		"1970":false,
+		"1977":true,
+		"1978":false,
+		"1979":false
+	}
+},
+{
+	"author":"Olivier SECRET",
+	"statement":"In 2013, How many time Germany won the the football world cup",
+	"category":"SPORT_LEISURE",
+	"choices":{
+		"3":true,
+		"2":false,
+		"5":false,
+		"4":false
+	}
+},
+		{
+		"author":"Marina Feincoeur",
+		"statement":"What\u0027s the capital of Honduras ?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Choloma":false,
+			"La Lima":false,
+			"Tegucigalpa":true,
+			"Juticalpa":false
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"Who was the main actor in Superman 2 ?",
+		"category":"ENTERTAINEMENT",
+		"choices":{
+			"John Hollis":false,
+			"Ned Beatty":false,
+			"Margot Kidder":false,
+			"Christopher Reeve":true
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"Who was the first man to go to space ?",
+		"category":"HISTORY",
+		"choices":{
+			"Loren Acton":false,
+			"Youri Gagarine":true,
+			"James Adamson":false,
+			"Buzz Aldrin":false
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"What is the main problem at the basis of Economy ?",
+		"category":"BUSINESS",
+		"choices":{
+			"The production":false,
+			"The money":false,
+			"The rarity":true,
+			"The consumption":false
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"What are the three primary colours ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"Red, blue and yellow":true,
+			"Yellow, black and pink":false,
+			"Orange, red and blue":false,
+			"Black, red and white":false
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"What language has the most words ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"English":true,
+			"French":false,
+			"Spanish":false,
+			"Dutch":false
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"What is the capital of Ethiopia ?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Adama":false,
+			"Awasa":false,
+			"Addis Ababa":true,
+			"Mekele":false
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"Who did Madonna marry ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Tom Everett Scott":false,
+			"Sean Penn":true,
+			"Peter Dinklage":false,
+			"Josh Holloway":false
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"Where did the first atomic bomb explode in Japan ?",
+		"category":"HISTORY",
+		"choices":{
+			"Nagoya":false,
+			"Tsushima":false,
+			"Hiroshima":true,
+			"Nagasaki":false
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"What are the needs that are at the last level of the pyramid of Maslow ?",
+		"category":"BUSINESS",
+		"choices":{
+			"The safety needs":false,
+			"The physiological needs":false,
+			"The needs of self-actualization":true,
+			"The needs of esteem":false
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"What type of elephant has got the largest ears ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"Australian":false,
+			"European":false,
+			"Asian":false,
+			"African":true
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"What\u0027s the name of the main airport in Madrid ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"Bilbao":false,
+			"Adolfo Suarez":false,
+			"Barajas":true,
+			"Pampelune":false
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"What\u0027s the capital of Ecuador ?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Duran":false,
+			"Quito":true,
+			"Cuenca":false,
+			"Ambato":false
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"Who sang, \"I\u0027m dreaming of a white Christmas\" ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Elvis Presley":false,
+			"Bing Crosby":true,
+			"Eddy Mitchell":false,
+			"Frank Sinatra":false
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"Who said, \"Veni, Vidi, Vici\" ?",
+		"category":"HISTORY",
+		"choices":{
+			"Cleopatra":false,
+			"Caius":false,
+			"Otis":false,
+			"Julius Caesar":true
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"The macroeconomics deal with ... ",
+		"category":"BUSINESS",
+		"choices":{
+			"The behaviour of the electronics industry":false,
+			"The activities of individual entities":false,
+			"The economic aggregates":true,
+			"The behaviour of companies":false
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"Who invented the electric light bulb ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"Thomas Edison":true,
+			"André-Marie Ampère":false,
+			"Joseph Swan":false,
+			"Isaac Newton":false
+		}
+	},
+	{
+		"author":"Marina Feincoeur",
+		"statement":"What currency is used in Japan ?",
+		"category":"BUSINESS",
+		"choices":{
+			"The yen":true,
+			"The dinar":false,
+			"The euro":false,
+			"The dollar":false
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"Where are the Dolomites located ?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Greece":false,
+			"Brazil":false,
+			"Italy":true,
+			"France":false
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"When did Elvis\u0027 first ever concert take place ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"1954":true,
+			"1952":false,
+			"1950":false,
+			"1956":false
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"How many wives did Henry VIII have ?",
+		"category":"HISTORY",
+		"choices":{
+			"5":false,
+			"6":true,
+			"8":false,
+			"9":false
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"What was Henry Ford\u0027s first mass-produced car called ?",
+		"category":"BUSINESS",
+		"choices":{
+			"Model S":false,
+			"Model T":true,
+			"Model M":false,
+			"Model N":false
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"What does the female praying mantis do after she\u0027s made love ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{"
+			She leaves the male":false,
+			"She cuts the male into pieces":false,
+			"She kills the male":false,
+			"She eats the male":true
+		}
+	},
+	{
+		"author":"Dimitri Tworoski",
+		"statement":"Who won a gold medal for Spain in cycling in the 1992 Olympics ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"Luis Doreste":false,
+			"Jose Manuel Moreno":true,
+			"Martin Lopez-Zubero":false,
+			"Fermin Cacho":false
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"What\u0027s the capital of Kenya",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Nairobi":true,
+			"Kigali":false,
+			"Mexico":false,
+			"Edinburgh":false
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"Who sang \"My Way\" ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Bing Crosby":false,
+			"Billy Eckstine":false,
+			"Al Hibbler":false,
+			"Frank Sinatra":true
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"Where was General Franco born ?",
+		"category":"HISTORY",
+		"choices":{
+			"Teruel":true,
+			"Bilbao":false,
+			"Barcelona":false,
+			"Madrid":false
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"What was the only product ever promoted by Elvis Presley in a television commercial ?",
+		"category":"BUSINESS",
+		"choices":{
+			"Guitars":false,
+			"Donuts":true,
+			"Radios":false,
+			"Suits":false
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"How many colours are there in a rainbow ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"5":false,
+			"6":false,
+			"7":true,
+			"8":false
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"Who is the tallest basketball player ever in the world ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"Tony Parker":false,
+			"LeBron James":false,
+			"Manute Bol":true,
+			"Michael Jordan":false
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"Which is the largest ocean ?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"The Pacific ocean":true,
+			"The Indian ocean":false,
+			"The Atlantic ocean":false,
+			"The Arctic ocean":false
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"Who was the main actor in \"Cocktail\" ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Brad Pitt":false,
+			"Leonardo DiCaprio":false,
+			"Nicolas Cage":false,
+			"Tom Cruise":true
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"When did the first man go into space ?",
+		"category":"HISTORY",
+		"choices":{
+			"1963":false,
+			"1961":true,
+			"1960":false,
+			"1959":false
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"Who signed a bank loan for 250,000 dollars to Apple to manufacture the Apple II ?",
+		"category":"BUSINESS",
+		"choices":{
+			"Steve Jobs":false,
+			"Jonathan Ive":false,
+			"Steve Wozniak":false,
+			"Mike Markkula":true
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"How many legs does a spider have ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"4":false,
+			"6":false,
+			"8":true,
+			"10":false
+		}
+	},
+	{
+		"author":"Dimitri Tworowski",
+		"statement":"What do you use to take a cork out of a bottle ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"A knife":false,
+			"A rope":false,
+			"A bottle-opener":false,
+			"A corkscrew":true
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"What\u0027s the largest city in India? ",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"New Delhi":false,
+			"Bombay":true,
+			"Rohtak":false,
+			"Kolkata":false
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"Name the two main actors in \"The Sting\".",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Jeff Bridges and Colin Firth":false,
+			"Sean Penn and Daniel Day-Lewis":false,
+			"Paul Newman and Robert Redford":true,
+			"Eddie Redmayne and Matthew McConaughey ":false
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"What year did Christopher Columbus go to America ? ",
+		"category":"HISTORY",
+		"choices":{
+			"1789":false,
+			"1492":true,
+			"1815":false,
+			"1429":false
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"In a free market system, the amount of goods and services owned by a household depends on : ",
+		"category":"BUSINESS",
+		"choices":{
+			"Its riches":false,
+			"Its income and its riches":true,
+			"Its income":false,
+			"Nothing":false
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"What temperature does water boil at? ",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"100 °C ":true,
+			"99  °C":false,
+			"110 °C":false,
+			"101 °C":false
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"What year did Paquirri die? ",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"1985":false,
+			"1984":true,
+			"1991":false,
+			"1990":false
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"What is the capital of Australia?",
+		"category":"GEOGRAPHY",
+		"choices":{"
+			Adelaide":false,
+			"Canberra":true,
+			"Sydney":false,
+			"Melbourne":false
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"What year did Elvis Presley die? ",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"1987":false,
+			"1969":false,
+			"1967":false,
+			"1977":true
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"Who did Lady Diana Spencer marry? ",
+		"category":"HISTORY",
+		"choices":{
+			"Prince Ernest Augustus":false,
+			"Prince William Frederick":false,
+			"Prince Charles":true,
+			"Richard the Lionheart":false
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"In a planned economy, any economic decisions are made by :",
+		"category":"BUSINESS",
+		"choices":{
+			"The people":false,
+			"The children":false,
+			"The state":true,
+			"The minister":false
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"Which nail grows faster on your hand ? ",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"The nail of the ring finger":false,
+			"The nail of the middle finger":true,
+			"The nail of the forefinger":false,
+			"The nail of the little finger":false
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"How many coloured balls are there in billiards?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"14":false,
+			"16":false,
+			"17":false,
+			"15 ":true
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"What\u0027s the smallest country in the world? ",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Monaco":false,
+			"Tuvalu":false,
+			"Nauru":false,
+			"Vatican City":true
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"What film star who appeared in the movie 9 1/2 weeks is now a boxer ? ",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Kim Basinger":false,
+			"Mickey Rourke":true,
+			"David Margulies ":false,
+			"Roderick Cook":false
+		}
+	},
+	{
+		"author":"Ronan Libert",
+		"statement":"Who did Prince Rainier of Monaco marry? ",
+		"category":"HISTORY",
+		"choices":{
+			"Grace Kelly":true,
+			"Victoria":false,
+			"Elisabeth":false,
+			"Sophia of Gloucester":false
+		}
+		},
+		{
+			"author":"Ronan Libert",
+			"statement":"Among these proposals which one is a primary need ? ",
+			"category":"BUSINESS",
+			"choices":{
+				"Need for achievement ":false,
+				"Need for belong":false,
+				"Need for esteem ":false,
+				"Need for safety":true
+			}
+		},
+		{
+			"author":"Ronan Libert",
+			"statement":"Who invented the telephone ?",
+			"category":"SCIENCE_NATURE",
+			"choices":{
+				"Thomas Edison":false,
+				"Leonardo da Vinvi":false,
+				"Nikola Tesla":false,
+				"Bell ":true
+			}
+		},
+		{
+			"author":"Ronan Libert",
+			"statement":"How many lanes does an olympic swimming pool have ?",
+			"category":"SPORT_LEISURE",
+			"choices":{
+				"2":false,
+				"4":false,
+				"6":false,
+				"8":true
+			}
+		},
+		{
+			"author":"Jordan Bastin",
+			"statement":"what\u0027s the capital of Denmark ?",
+			"category":"GEOGRAPHY",
+			"choices":{
+				"Copenhagen":true,
+				"Herning":false,
+				"Svendborg":false,
+				"Odense":false
+			}
+		},
+		{"author":"Jordan Bastin",
+		"statement":"Who were the two main actors in \"pretty woman\" ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Julia Roberts and Brad Pitt":false,
+			"Julia Roberts and Richard Gere":true,
+			"Jim Carrey and Scarlett Johansson":false,
+			"Johansson , Richard Gere and Natalie Dormer":false
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"What year did the Spanish civil war end ?",
+		"category":"HISTORY",
+		"choices":{
+			"1991":false,
+			"1939":true,
+			"1938":false,
+			"1945":false
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"How are the people who anticipate the bargain fluctuation called ?",
+		"category":"BUSINESS",
+		"choices":{
+			"Business developer":false,
+			"A broker":false,
+			"A business manager":false,
+			"A trader":true
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"Which is the only mammal that can\u0027t jump ? ",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"The tiger":false,
+			"The elephant":true,
+			"The bear":false,
+			"The monkey":false
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"How long is a round in boxing ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"3 minutes":true,
+			"4 minutes":false,
+			"1 minutes":false,
+			"2 minutes":false
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"What\u0027s the capital of Brazil ?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Brasilia":true,
+			"São Paulo":false,
+			"Porto Alegre":false,
+			"Rio de Janeiro":false
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"Who was the direcor of the film \"psycho\" ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Woody Allen":false,
+			"Alfred Hitchcock":true,
+			"William Friedkin":false,
+			"Ivan Reitman":false
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"When did the first world war start ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"1940":false,
+			"1918":false,
+			"1914":true,
+			"1913":false
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"How is the property title delivered by a society called ?",
+		"category":"BUSINESS",
+		"choices":{
+			"A gift":false,
+			"An action ":true,
+			"A property title":false,
+			"A transaction":false
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"Where is the smallest bone of the body located ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"In the ear":true,
+			"In the hand":false,
+			"In the foot":false,
+			"In the leg":false
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"What is the highest score in a gymnastic exercise ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"15":false,
+			"5":false,
+			"8":false,
+			"10":true
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"What\u0027s the highest mountain in africa ?",
+		"category":"GEOGRAPHY",
+		"choices":{
+			"Mount Meru":false,
+			"The mount Kilimanjaro":true,
+			"Rwenzori":false,
+			"Mount Elgon":false
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"Who wrote the song \"johnny b good\" ?",
+		"category":"ENTERTAINMENT",
+		"choices":{
+			"Johnny Rivers":false,
+			"Roch Voisine":false,
+			"Chuck berry":true,
+			"AC/DC":false
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"When did the second world war end ?",
+		"category":"HISTORY",
+		"choices":{
+			"1940":false,
+			"1918":false,
+			"1936":false,
+			"1945":true
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"How are the people who arrange transaction between a buyer and a seller ?",
+		"category":"BUSINESS",
+		"choices":{
+			"Business developer":false,
+			"A broker":true,
+			"A business manager":false,
+			"A trader":false
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"What did Joseph Priesley discover in 1774 ?",
+		"category":"SCIENCE_NATURE",
+		"choices":{
+			"Oxygen":true,
+			"Electricity":false,
+			"Fire":false,
+			"The concept of absolute zero":false
+		}
+	},
+	{
+		"author":"Jordan Bastin",
+		"statement":"How many squares are there on a chess board ?",
+		"category":"SPORT_LEISURE",
+		"choices":{
+			"128":false,
+			"84":false,
+			"62":false,
+			"64":true
+		}
+	}
+	],"listeObservers":[]
+	
+}
